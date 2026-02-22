@@ -1,6 +1,8 @@
 import { View, Text, StyleSheet } from "react-native";
 
 type Props = {
+  title: string;
+  mainEntryName: string;
   mainTitle: string;
   mediaType: string;
   availableBranches: string[] | null;
@@ -14,14 +16,27 @@ function Availability({ branches }: { branches: string[] | null }) {
 }
 
 export function BookComponent({
+  title,
   mainTitle,
+  mainEntryName,
   mediaType,
   availableBranches,
 }: Props) {
+  let emoji = "";
+  if (mediaType === "Bok") {
+    emoji = "📕 ";
+  } else if (mediaType === "Film") {
+    emoji = "📽️ ";
+  } else if (mediaType === "Noter") {
+    emoji = "🎼 ";
+  }
   return (
     <View style={styles.card}>
-      <Text style={styles.title}>{mainTitle}</Text>
-      <Text style={styles.mediaType}>{mediaType}</Text>
+      <Text style={styles.title}>
+        {emoji}
+        {title}
+      </Text>
+      <Text style={styles.author}>{mainEntryName}</Text>
       <Availability branches={availableBranches} />
     </View>
   );
@@ -30,5 +45,5 @@ export function BookComponent({
 const styles = StyleSheet.create({
   card: { backgroundColor: "#ddd", borderRadius: 12, margin: 6, padding: 6 },
   title: { fontWeight: 700 },
-  mediaType: { fontStyle: "italic" },
+  author: { fontStyle: "italic" },
 });

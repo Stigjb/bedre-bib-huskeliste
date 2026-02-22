@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-app",
-    "slug": "rn-app",
+    "name": "En bedre bibliotekshuskeliste",
+    "slug": "bedre-bib-huskeliste",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

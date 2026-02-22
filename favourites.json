@@ -1,0 +1,1667 @@
+[
+  {
+    "tag": "Meaningness",
+    "recordId": "559632",
+    "mainEntryName": "Hubert L. Dreyfus",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h26441800",
+      "id": "h26441800",
+      "type": "person",
+      "label": "Hubert L. Dreyfus",
+      "slug": "hubert-l.-dreyfus",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w088cd0067789e7fcd247096cec0f7ffc",
+    "mainTitle": "Michel Foucault",
+    "title": "Michel Foucault : beyond structuralism and hermeneutics",
+    "subtitle": "beyond structuralism and hermeneutics",
+    "publicationYear": 1983,
+    "publicationURI": "http://data.deichman.no/publication/p700cd481eefa6fbc8c2b82bfb6a1c91f",
+    "uri": "http://data.deichman.no/publication/p700cd481eefa6fbc8c2b82bfb6a1c91f",
+    "coverImage": "/cover-images/p700cd481eefa6fbc8c2b82bfb6a1c91f.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p700cd481eefa6fbc8c2b82bfb6a1c91f.jpg",
+      "medium": "/api/images/resize/270/cover-images/p700cd481eefa6fbc8c2b82bfb6a1c91f.jpg",
+      "large": "/api/images/resize/420/cover-images/p700cd481eefa6fbc8c2b82bfb6a1c91f.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p700cd481eefa6fbc8c2b82bfb6a1c91f.jpg",
+      "fallbackColor": "col-ok-2"
+    }
+  },
+  {
+    "tag": "Meaningness",
+    "recordId": "872634",
+    "mainEntryName": "Friedrich Nietzsche",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h14392100",
+      "id": "h14392100",
+      "type": "person",
+      "label": "Friedrich Nietzsche",
+      "slug": "friedrich-nietzsche",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/wc9b02316e002712af46b562bb83af2ce",
+    "mainTitle": "Avgudenes ragnarok, eller Hvordan man filosoferer med hammeren",
+    "title": "Avgudenes ragnarok, eller Hvordan man filosoferer med hammeren",
+    "publicationYear": 2008,
+    "publicationURI": "http://data.deichman.no/publication/p8bf57723b0cb64f1a6df246a590abe14",
+    "uri": "http://data.deichman.no/publication/p8bf57723b0cb64f1a6df246a590abe14",
+    "coverImage": "/cover-images/p8bf57723b0cb64f1a6df246a590abe14.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "fgry",
+      "bjor"
+    ],
+    "availableBranches": [
+      "fgry",
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p8bf57723b0cb64f1a6df246a590abe14.jpg",
+      "medium": "/api/images/resize/270/cover-images/p8bf57723b0cb64f1a6df246a590abe14.jpg",
+      "large": "/api/images/resize/420/cover-images/p8bf57723b0cb64f1a6df246a590abe14.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p8bf57723b0cb64f1a6df246a590abe14.jpg",
+      "fallbackColor": "col-ok-6"
+    }
+  },
+  {
+    "tag": "Meaningness",
+    "recordId": "379222",
+    "mainEntryName": "Hubert L. Dreyfus",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h26441800",
+      "id": "h26441800",
+      "type": "person",
+      "label": "Hubert L. Dreyfus",
+      "slug": "hubert-l.-dreyfus",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/wb8ee2e7bb098eb6f5b7af49181544dbc",
+    "mainTitle": "Intuitiv ekspertise",
+    "title": "Intuitiv ekspertise : den bristede drøm om tænkende maskiner",
+    "subtitle": "den bristede drøm om tænkende maskiner",
+    "publicationYear": 1991,
+    "publicationURI": "http://data.deichman.no/publication/pc6f8cb50cd71e77a6485e62e4f8801d3",
+    "uri": "http://data.deichman.no/publication/pc6f8cb50cd71e77a6485e62e4f8801d3",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": null,
+      "medium": null,
+      "large": null,
+      "hasAllSizes": false,
+      "useFallback": true,
+      "largest": null,
+      "fallbackColor": "col-ok-4"
+    }
+  },
+  {
+    "tag": "Meaningness",
+    "recordId": "577679",
+    "mainEntryName": "Thomas S. Kuhn",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h30077700",
+      "id": "h30077700",
+      "type": "person",
+      "label": "Thomas S. Kuhn",
+      "slug": "thomas-s.-kuhn",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w640d38dab5afc2f462433707c59f9e59",
+    "mainTitle": "Vitenskapelige revolusjoners struktur",
+    "title": "Vitenskapelige revolusjoners struktur",
+    "publicationYear": 2002,
+    "publicationURI": "http://data.deichman.no/publication/p9da0f7d6e23f4f2d9eb388f4c6e865f5",
+    "uri": "http://data.deichman.no/publication/p9da0f7d6e23f4f2d9eb388f4c6e865f5",
+    "coverImage": "/cover-images/p9da0f7d6e23f4f2d9eb388f4c6e865f5.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p9da0f7d6e23f4f2d9eb388f4c6e865f5.jpg",
+      "medium": "/api/images/resize/270/cover-images/p9da0f7d6e23f4f2d9eb388f4c6e865f5.jpg",
+      "large": "/api/images/resize/420/cover-images/p9da0f7d6e23f4f2d9eb388f4c6e865f5.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p9da0f7d6e23f4f2d9eb388f4c6e865f5.jpg",
+      "fallbackColor": "col-ok-1"
+    }
+  },
+  {
+    "tag": "Skjønnlitteratur",
+    "recordId": "1466897",
+    "mainEntryName": "Neal Stephenson",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h17708200",
+      "id": "h17708200",
+      "type": "person",
+      "label": "Neal Stephenson",
+      "slug": "neal-stephenson",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w88e3eabb6f40b9dbe5c39d423dfc245e",
+    "mainTitle": "Cryptonomicon",
+    "title": "Cryptonomicon",
+    "publicationYear": 2000,
+    "publicationURI": "http://data.deichman.no/publication/p322807763140fb3ad0ba0f19f17efe46",
+    "uri": "http://data.deichman.no/publication/p322807763140fb3ad0ba0f19f17efe46",
+    "coverImage": "/cover-images/p322807763140fb3ad0ba0f19f17efe46.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p322807763140fb3ad0ba0f19f17efe46.jpg",
+      "medium": "/api/images/resize/270/cover-images/p322807763140fb3ad0ba0f19f17efe46.jpg",
+      "large": "/api/images/resize/420/cover-images/p322807763140fb3ad0ba0f19f17efe46.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p322807763140fb3ad0ba0f19f17efe46.jpg",
+      "fallbackColor": "col-ok-3"
+    }
+  },
+  {
+    "tag": "Skjønnlitteratur",
+    "recordId": "9153724",
+    "mainEntryName": "Blake Crouch",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h2050195900",
+      "id": "h2050195900",
+      "type": "person",
+      "label": "Blake Crouch",
+      "slug": "blake-crouch",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/b00eff74-0695-4087-bb8c-28f492f68a5e",
+    "mainTitle": "Recursion",
+    "title": "Recursion : a novel",
+    "subtitle": "a novel",
+    "publicationYear": 2019,
+    "publicationURI": "http://data.deichman.no/publication/4aaad71c-e6b2-471b-a48b-b5c1b9f921b7",
+    "uri": "http://data.deichman.no/publication/4aaad71c-e6b2-471b-a48b-b5c1b9f921b7",
+    "coverImage": "/cover-images/1699615550640513703b22553138702.jpeg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "fmaj",
+      "fsto"
+    ],
+    "availableBranches": [
+      "fsto"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/1699615550640513703b22553138702.jpeg",
+      "medium": "/api/images/resize/270/cover-images/1699615550640513703b22553138702.jpeg",
+      "large": "/api/images/resize/420/cover-images/1699615550640513703b22553138702.jpeg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/1699615550640513703b22553138702.jpeg",
+      "fallbackColor": "col-ok-2"
+    }
+  },
+  {
+    "tag": "Skjønnlitteratur",
+    "recordId": "9137423",
+    "mainEntryName": "Scott Lynch",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h2041756300",
+      "id": "h2041756300",
+      "type": "person",
+      "label": "Scott Lynch",
+      "slug": "scott-lynch",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w6d50061318127481c914fa8964f30dc0",
+    "mainTitle": "The lies of Locke Lamora",
+    "title": "The lies of Locke Lamora",
+    "publicationYear": 2016,
+    "publicationURI": "http://data.deichman.no/publication/p360868646297",
+    "uri": "http://data.deichman.no/publication/p360868646297",
+    "coverImage": "/cover-images/p360868646297.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor",
+      "flam",
+      "fnyd",
+      "fsto"
+    ],
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p360868646297.jpg",
+      "medium": "/api/images/resize/270/cover-images/p360868646297.jpg",
+      "large": "/api/images/resize/420/cover-images/p360868646297.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p360868646297.jpg",
+      "fallbackColor": "col-ok-4"
+    }
+  },
+  {
+    "tag": "Skjønnlitteratur",
+    "recordId": "9176065",
+    "mainEntryName": "Neal Stephenson",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h17708200",
+      "id": "h17708200",
+      "type": "person",
+      "label": "Neal Stephenson",
+      "slug": "neal-stephenson",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/a7062c0b-edf4-4b04-b909-5175c0bbbe2d",
+    "mainTitle": "The diamond age",
+    "title": "The diamond age",
+    "publicationYear": 2011,
+    "publicationURI": "http://data.deichman.no/publication/1329e3c2-d981-48bc-a264-5969a69c666c",
+    "uri": "http://data.deichman.no/publication/1329e3c2-d981-48bc-a264-5969a69c666c",
+    "coverImage": "/cover-images/1329e3c2-d981-48bc-a264-5969a69c666c.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/1329e3c2-d981-48bc-a264-5969a69c666c.jpg",
+      "medium": "/api/images/resize/270/cover-images/1329e3c2-d981-48bc-a264-5969a69c666c.jpg",
+      "large": "/api/images/resize/420/cover-images/1329e3c2-d981-48bc-a264-5969a69c666c.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/1329e3c2-d981-48bc-a264-5969a69c666c.jpg",
+      "fallbackColor": "col-ok-6"
+    }
+  },
+  {
+    "tag": "Skjønnlitteratur",
+    "recordId": "9131363",
+    "mainEntryName": "Adrian Tchaikovsky",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h094179487154",
+      "id": "h094179487154",
+      "type": "person",
+      "label": "Adrian Tchaikovsky",
+      "slug": "adrian-tchaikovsky",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w798596317614",
+    "mainTitle": "Children of time",
+    "title": "Children of time",
+    "publicationYear": 2016,
+    "publicationURI": "http://data.deichman.no/publication/p884819998037",
+    "uri": "http://data.deichman.no/publication/p884819998037",
+    "coverImage": "/cover-images/1771241278650085121e1829525b0cf.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "fnor",
+      "ffur",
+      "bjor",
+      "flam",
+      "fgry"
+    ],
+    "availableBranches": [
+      "flam",
+      "fgry"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/1771241278650085121e1829525b0cf.jpg",
+      "medium": "/api/images/resize/270/cover-images/1771241278650085121e1829525b0cf.jpg",
+      "large": "/api/images/resize/420/cover-images/1771241278650085121e1829525b0cf.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/1771241278650085121e1829525b0cf.jpg",
+      "fallbackColor": "col-ok-1"
+    }
+  },
+  {
+    "tag": "Skjønnlitteratur",
+    "recordId": "586869",
+    "mainEntryName": "Stephen Baxter",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h26153500",
+      "id": "h26153500",
+      "type": "person",
+      "label": "Stephen Baxter",
+      "slug": "stephen-baxter",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/wa67bfab68a30fc647bc162fd0e14e9c8",
+    "mainTitle": "Evolution",
+    "title": "Evolution : a novel",
+    "subtitle": "a novel",
+    "publicationYear": 2003,
+    "publicationURI": "http://data.deichman.no/publication/p470e75381081ca85edd542cccc6562e1",
+    "uri": "http://data.deichman.no/publication/p470e75381081ca85edd542cccc6562e1",
+    "coverImage": "/cover-images/p470e75381081ca85edd542cccc6562e1.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p470e75381081ca85edd542cccc6562e1.jpg",
+      "medium": "/api/images/resize/270/cover-images/p470e75381081ca85edd542cccc6562e1.jpg",
+      "large": "/api/images/resize/420/cover-images/p470e75381081ca85edd542cccc6562e1.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p470e75381081ca85edd542cccc6562e1.jpg",
+      "fallbackColor": "col-ok-6"
+    }
+  },
+  {
+    "tag": "Skjønnlitteratur",
+    "recordId": "1131594",
+    "mainEntryName": "Chinua Achebe",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h10218600",
+      "id": "h10218600",
+      "type": "person",
+      "label": "Chinua Achebe",
+      "slug": "chinua-achebe",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w2104283b612fbb2b67a2a5d9241b6426",
+    "mainTitle": "Things fall apart",
+    "title": "Things fall apart",
+    "publicationYear": 2010,
+    "publicationURI": "http://data.deichman.no/publication/p82c688e266d23dbd18c21d99d4608add",
+    "uri": "http://data.deichman.no/publication/p82c688e266d23dbd18c21d99d4608add",
+    "coverImage": "/cover-images/p82c688e266d23dbd18c21d99d4608add.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "fbje",
+      "fhol",
+      "froa",
+      "fgam",
+      "fnyd",
+      "fgry",
+      "ffur"
+    ],
+    "availableBranches": [
+      "fhol",
+      "froa",
+      "fgam",
+      "fnyd",
+      "fgry",
+      "ffur"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p82c688e266d23dbd18c21d99d4608add.jpg",
+      "medium": "/api/images/resize/270/cover-images/p82c688e266d23dbd18c21d99d4608add.jpg",
+      "large": "/api/images/resize/420/cover-images/p82c688e266d23dbd18c21d99d4608add.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p82c688e266d23dbd18c21d99d4608add.jpg",
+      "fallbackColor": "col-ok-2"
+    }
+  },
+  {
+    "tag": "Skjønnlitteratur",
+    "recordId": "1289456",
+    "mainEntryName": "Terry Pratchett",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h18370500",
+      "id": "h18370500",
+      "type": "person",
+      "label": "Terry Pratchett",
+      "slug": "terry-pratchett",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/wbf902629965c105307b6bc24195cf4af",
+    "mainTitle": "The long earth",
+    "title": "The long earth",
+    "publicationYear": 2012,
+    "publicationURI": "http://data.deichman.no/publication/pc536e045771ecab98b042a371284b77f",
+    "uri": "http://data.deichman.no/publication/pc536e045771ecab98b042a371284b77f",
+    "coverImage": "/cover-images/pc536e045771ecab98b042a371284b77f.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/pc536e045771ecab98b042a371284b77f.jpg",
+      "medium": "/api/images/resize/270/cover-images/pc536e045771ecab98b042a371284b77f.jpg",
+      "large": "/api/images/resize/420/cover-images/pc536e045771ecab98b042a371284b77f.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/pc536e045771ecab98b042a371284b77f.jpg",
+      "fallbackColor": "col-ok-3"
+    }
+  },
+  {
+    "tag": "Skjønnlitteratur",
+    "recordId": "9198446",
+    "mainEntryName": "Joe Pera",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/c468462c-4901-4f1b-97fa-016d5d01e0d6",
+      "id": "c468462c-4901-4f1b-97fa-016d5d01e0d6",
+      "type": "person",
+      "label": "Joe Pera",
+      "slug": "joe-pera",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/2101976a-6c9b-488b-b9fa-24f0a01852d7",
+    "mainTitle": "A bathroom book for people not pooping or peeing but using the bathroom as an escape",
+    "title": "A bathroom book for people not pooping or peeing but using the bathroom as an escape",
+    "publicationYear": 2021,
+    "publicationURI": "http://data.deichman.no/publication/29f99d59-da9f-4056-aa3e-e6dce317af34",
+    "uri": "http://data.deichman.no/publication/29f99d59-da9f-4056-aa3e-e6dce317af34",
+    "coverImage": "/cover-images/1646729662040853791444cfa148b4f.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "fgry"
+    ],
+    "availableBranches": [
+      "fgry"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/1646729662040853791444cfa148b4f.jpg",
+      "medium": "/api/images/resize/270/cover-images/1646729662040853791444cfa148b4f.jpg",
+      "large": "/api/images/resize/420/cover-images/1646729662040853791444cfa148b4f.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/1646729662040853791444cfa148b4f.jpg",
+      "fallbackColor": "col-ok-3"
+    }
+  },
+  {
+    "tag": "Musikk",
+    "recordId": "389882",
+    "mainEntryName": "Frank Zappa",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h13541600",
+      "id": "h13541600",
+      "type": "person",
+      "label": "Frank Zappa",
+      "slug": "frank-zappa",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/wcbfcb5b0a06de0a3e041a75d25c92870",
+    "mainTitle": "The Frank Zappa guitar book",
+    "title": "The Frank Zappa guitar book",
+    "publicationYear": 1982,
+    "publicationURI": "http://data.deichman.no/publication/p4a8d8c6b0ecdcd85298b7515503fffe5",
+    "uri": "http://data.deichman.no/publication/p4a8d8c6b0ecdcd85298b7515503fffe5",
+    "mediaType": "Noter",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": null,
+      "medium": null,
+      "large": null,
+      "hasAllSizes": false,
+      "useFallback": true,
+      "largest": null,
+      "fallbackColor": "col-ok-4"
+    }
+  },
+  {
+    "tag": "Musikk",
+    "recordId": "830591",
+    "mainEntryName": "Dream Theater (musikkgruppe)",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/corporation/c27768800",
+      "id": "c27768800",
+      "type": "corporation",
+      "label": "Dream Theater (musikkgruppe)",
+      "slug": "dream-theater-%28musikkgruppe%29",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/wf8ebd4d9a0e9bb932821353bc6c32bed",
+    "mainTitle": "Guitar anthology",
+    "title": "Guitar anthology",
+    "publicationYear": 2007,
+    "publicationURI": "http://data.deichman.no/publication/p94ea78cf3d0a00755d92102a5515085f",
+    "uri": "http://data.deichman.no/publication/p94ea78cf3d0a00755d92102a5515085f",
+    "coverImage": "/cover-images/p94ea78cf3d0a00755d92102a5515085f.jpg",
+    "mediaType": "Noter",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p94ea78cf3d0a00755d92102a5515085f.jpg",
+      "medium": "/api/images/resize/270/cover-images/p94ea78cf3d0a00755d92102a5515085f.jpg",
+      "large": "/api/images/resize/420/cover-images/p94ea78cf3d0a00755d92102a5515085f.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p94ea78cf3d0a00755d92102a5515085f.jpg",
+      "fallbackColor": "col-ok-1"
+    }
+  },
+  {
+    "tag": "Musikk",
+    "recordId": "832787",
+    "mainEntryName": "Frank Zappa",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h13541600",
+      "id": "h13541600",
+      "type": "person",
+      "label": "Frank Zappa",
+      "slug": "frank-zappa",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w3ea9134012081a14028e3a5c86b25b6d",
+    "mainTitle": "Apostrophe (')",
+    "title": "Apostrophe (')",
+    "publicationYear": 2003,
+    "publicationURI": "http://data.deichman.no/publication/p8654cd86cf0f2619b3d32cb58583fbfb",
+    "uri": "http://data.deichman.no/publication/p8654cd86cf0f2619b3d32cb58583fbfb",
+    "coverImage": "/cover-images/p8654cd86cf0f2619b3d32cb58583fbfb.jpg",
+    "mediaType": "Noter",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p8654cd86cf0f2619b3d32cb58583fbfb.jpg",
+      "medium": "/api/images/resize/270/cover-images/p8654cd86cf0f2619b3d32cb58583fbfb.jpg",
+      "large": "/api/images/resize/420/cover-images/p8654cd86cf0f2619b3d32cb58583fbfb.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p8654cd86cf0f2619b3d32cb58583fbfb.jpg",
+      "fallbackColor": "col-ok-2"
+    }
+  },
+  {
+    "tag": "Musikk",
+    "recordId": "9176143",
+    "mainEntryName": "Jacob Holm-Lupo",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/6d29dd89-8917-4547-9496-2c1504fadc00",
+      "id": "6d29dd89-8917-4547-9496-2c1504fadc00",
+      "type": "person",
+      "label": "Jacob Holm-Lupo",
+      "slug": "jacob-holm-lupo",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/87a32426-57d1-47c1-bf4a-2e0c6460a14d",
+    "mainTitle": "Toto",
+    "title": "Toto : every album, every song",
+    "subtitle": "every album, every song",
+    "publicationYear": 2020,
+    "publicationURI": "http://data.deichman.no/publication/65a3ec63-1f29-4f70-962b-567360d616cc",
+    "uri": "http://data.deichman.no/publication/65a3ec63-1f29-4f70-962b-567360d616cc",
+    "coverImage": "/cover-images/65a3ec63-1f29-4f70-962b-567360d616cc.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/65a3ec63-1f29-4f70-962b-567360d616cc.jpg",
+      "medium": "/api/images/resize/270/cover-images/65a3ec63-1f29-4f70-962b-567360d616cc.jpg",
+      "large": "/api/images/resize/420/cover-images/65a3ec63-1f29-4f70-962b-567360d616cc.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/65a3ec63-1f29-4f70-962b-567360d616cc.jpg",
+      "fallbackColor": "col-ok-5"
+    }
+  },
+  {
+    "tag": "Feminisme",
+    "recordId": "706079",
+    "mainEntryName": "Stephanie Coontz",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h35137100",
+      "id": "h35137100",
+      "type": "person",
+      "label": "Stephanie Coontz",
+      "slug": "stephanie-coontz",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/wba4d66b8d498fa347be98354213d41e0",
+    "mainTitle": "I gode og onde dager",
+    "title": "I gode og onde dager : ekteskapets historie",
+    "subtitle": "ekteskapets historie",
+    "publicationYear": 2006,
+    "publicationURI": "http://data.deichman.no/publication/pd08979cc387f088b8277a2ebf827cb32",
+    "uri": "http://data.deichman.no/publication/pd08979cc387f088b8277a2ebf827cb32",
+    "coverImage": "/cover-images/pd08979cc387f088b8277a2ebf827cb32.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/pd08979cc387f088b8277a2ebf827cb32.jpg",
+      "medium": "/api/images/resize/270/cover-images/pd08979cc387f088b8277a2ebf827cb32.jpg",
+      "large": "/api/images/resize/420/cover-images/pd08979cc387f088b8277a2ebf827cb32.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/pd08979cc387f088b8277a2ebf827cb32.jpg",
+      "fallbackColor": "col-ok-1"
+    }
+  },
+  {
+    "tag": "Film",
+    "recordId": "1250242",
+    "workURI": "http://data.deichman.no/work/wab459ca94cfcf1412a3ec2160d2b1309",
+    "mainTitle": "A Town called panic",
+    "title": "A Town called panic",
+    "publicationYear": 2010,
+    "publicationURI": "http://data.deichman.no/publication/p05782a0a9aa46bb02824f1f24ad9d5ca",
+    "uri": "http://data.deichman.no/publication/p05782a0a9aa46bb02824f1f24ad9d5ca",
+    "mediaType": "Film",
+    "formats": [
+      "DVD"
+    ],
+    "homeBranches": [
+      "fgry"
+    ],
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": null,
+      "medium": null,
+      "large": null,
+      "hasAllSizes": false,
+      "useFallback": true,
+      "largest": null,
+      "fallbackColor": "col-ok-2"
+    }
+  },
+  {
+    "tag": "Film",
+    "recordId": "1153215",
+    "workURI": "http://data.deichman.no/work/w1e8436028d31ce7910b021d58dd620ab",
+    "mainTitle": "Goldeneye",
+    "title": "Goldeneye",
+    "publicationYear": 2008,
+    "publicationURI": "http://data.deichman.no/publication/p7d9b89551c0604f123eda8cfe5d7df50",
+    "uri": "http://data.deichman.no/publication/p7d9b89551c0604f123eda8cfe5d7df50",
+    "mediaType": "Film",
+    "formats": [
+      "DVD"
+    ],
+    "homeBranches": [
+      "froa"
+    ],
+    "availableBranches": [
+      "froa"
+    ],
+    "contributors": [],
+    "images": {
+      "small": null,
+      "medium": null,
+      "large": null,
+      "hasAllSizes": false,
+      "useFallback": true,
+      "largest": null,
+      "fallbackColor": "col-ok-5"
+    }
+  },
+  {
+    "tag": "Film",
+    "recordId": "927250",
+    "workURI": "http://data.deichman.no/work/wdb8b4f12056a86a38c9a21cf69001892",
+    "mainTitle": "Gaslight",
+    "title": "Gaslight",
+    "publicationYear": 2009,
+    "publicationURI": "http://data.deichman.no/publication/pcd4d25fdda2a391856e45278883f2e1c",
+    "uri": "http://data.deichman.no/publication/pcd4d25fdda2a391856e45278883f2e1c",
+    "mediaType": "Film",
+    "formats": [
+      "DVD"
+    ],
+    "homeBranches": [
+      "froa",
+      "bjor"
+    ],
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": null,
+      "medium": null,
+      "large": null,
+      "hasAllSizes": false,
+      "useFallback": true,
+      "largest": null,
+      "fallbackColor": "col-ok-6"
+    }
+  },
+  {
+    "tag": "Film",
+    "recordId": "1043860",
+    "workURI": "http://data.deichman.no/work/w54187c61f7c54206f737c51a2fb7a253",
+    "mainTitle": "3 idiots",
+    "title": "3 idiots",
+    "untranscribedTitle": "تین ایڈیٹس",
+    "publicationYear": 2010,
+    "publicationURI": "http://data.deichman.no/publication/p3cbeab7b78cc3344b560f7f9376ba467",
+    "uri": "http://data.deichman.no/publication/p3cbeab7b78cc3344b560f7f9376ba467",
+    "mediaType": "Film",
+    "formats": [
+      "DVD"
+    ],
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": null,
+      "medium": null,
+      "large": null,
+      "hasAllSizes": false,
+      "useFallback": true,
+      "largest": null,
+      "fallbackColor": "col-ok-4"
+    }
+  },
+  {
+    "tag": "Film",
+    "recordId": "669282",
+    "workURI": "http://data.deichman.no/work/w008840e3e1704ef45a7add1cc39ab4dd",
+    "mainTitle": "Der Untergang",
+    "title": "Der Untergang",
+    "publicationYear": 2005,
+    "publicationURI": "http://data.deichman.no/publication/p66491622045c9ee0d0fff7246ceaaddc",
+    "uri": "http://data.deichman.no/publication/p66491622045c9ee0d0fff7246ceaaddc",
+    "coverImage": "/cover-images/p66491622045c9ee0d0fff7246ceaaddc.jpg",
+    "mediaType": "Film",
+    "formats": [
+      "DVD"
+    ],
+    "homeBranches": [
+      "froa",
+      "fsto",
+      "fnyd",
+      "fhol"
+    ],
+    "availableBranches": [
+      "froa",
+      "fsto",
+      "fnyd",
+      "fhol"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p66491622045c9ee0d0fff7246ceaaddc.jpg",
+      "medium": "/api/images/resize/270/cover-images/p66491622045c9ee0d0fff7246ceaaddc.jpg",
+      "large": "/api/images/resize/420/cover-images/p66491622045c9ee0d0fff7246ceaaddc.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p66491622045c9ee0d0fff7246ceaaddc.jpg",
+      "fallbackColor": "col-ok-2"
+    }
+  },
+  {
+    "tag": "Film",
+    "recordId": "779071",
+    "workURI": "http://data.deichman.no/work/wbb8906cafddd1712d8c1e7ffbc59d5c9",
+    "mainTitle": "Paprika",
+    "title": "Paprika",
+    "publicationYear": 2007,
+    "publicationURI": "http://data.deichman.no/publication/p94f57081a1c57b33c007b9da9d6589a7",
+    "uri": "http://data.deichman.no/publication/p94f57081a1c57b33c007b9da9d6589a7",
+    "coverImage": "/cover-images/p94f57081a1c57b33c007b9da9d6589a7.jpg",
+    "mediaType": "Film",
+    "formats": [
+      "DVD"
+    ],
+    "homeBranches": [
+      "froa",
+      "bjor"
+    ],
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p94f57081a1c57b33c007b9da9d6589a7.jpg",
+      "medium": "/api/images/resize/270/cover-images/p94f57081a1c57b33c007b9da9d6589a7.jpg",
+      "large": "/api/images/resize/420/cover-images/p94f57081a1c57b33c007b9da9d6589a7.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p94f57081a1c57b33c007b9da9d6589a7.jpg",
+      "fallbackColor": "col-ok-1"
+    }
+  },
+  {
+    "tag": "Film",
+    "recordId": "605751",
+    "workURI": "http://data.deichman.no/work/w3b97f1ebda7c0f2e9b966b3d7f05d269",
+    "mainTitle": "Detektor",
+    "title": "Detektor",
+    "publicationYear": 2001,
+    "publicationURI": "http://data.deichman.no/publication/pbb763a4afde05814af392081d861767c",
+    "uri": "http://data.deichman.no/publication/pbb763a4afde05814af392081d861767c",
+    "mediaType": "Film",
+    "formats": [
+      "DVD"
+    ],
+    "homeBranches": [
+      "fnyd",
+      "bjor",
+      "flam"
+    ],
+    "availableBranches": [
+      "fnyd",
+      "bjor",
+      "flam"
+    ],
+    "contributors": [],
+    "images": {
+      "small": null,
+      "medium": null,
+      "large": null,
+      "hasAllSizes": false,
+      "useFallback": true,
+      "largest": null,
+      "fallbackColor": "col-ok-4"
+    }
+  },
+  {
+    "tag": "Film",
+    "recordId": "9173981",
+    "workURI": "http://data.deichman.no/work/wae5782c923a38e251b2f07e8c0101a8e",
+    "mainTitle": "12 angry men",
+    "title": "12 angry men",
+    "publicationYear": 2020,
+    "publicationURI": "http://data.deichman.no/publication/43793a71-1034-4547-b6b0-b614ed79f596",
+    "uri": "http://data.deichman.no/publication/43793a71-1034-4547-b6b0-b614ed79f596",
+    "coverImage": "/cover-images/43793a71-1034-4547-b6b0-b614ed79f596.jpg",
+    "mediaType": "Film",
+    "formats": [
+      "Blu-ray"
+    ],
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/43793a71-1034-4547-b6b0-b614ed79f596.jpg",
+      "medium": "/api/images/resize/270/cover-images/43793a71-1034-4547-b6b0-b614ed79f596.jpg",
+      "large": "/api/images/resize/420/cover-images/43793a71-1034-4547-b6b0-b614ed79f596.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/43793a71-1034-4547-b6b0-b614ed79f596.jpg",
+      "fallbackColor": "col-ok-6"
+    }
+  },
+  {
+    "tag": "Film",
+    "recordId": "9227015",
+    "workURI": "http://data.deichman.no/work/eb74c780-36a4-4eed-a793-0014d33e50e5",
+    "mainTitle": "Hundreds of beavers",
+    "title": "Hundreds of beavers",
+    "publicationYear": 2022,
+    "publicationURI": "http://data.deichman.no/publication/42ab3a74-5cde-40ee-8f2d-2854fd951ede",
+    "uri": "http://data.deichman.no/publication/42ab3a74-5cde-40ee-8f2d-2854fd951ede",
+    "mediaType": "Film",
+    "formats": [
+      "Blu-ray"
+    ],
+    "homeBranches": [
+      "froa",
+      "bjor"
+    ],
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": null,
+      "medium": null,
+      "large": null,
+      "hasAllSizes": false,
+      "useFallback": true,
+      "largest": null,
+      "fallbackColor": "col-ok-2"
+    }
+  },
+  {
+    "tag": "Film",
+    "recordId": "9218097",
+    "workURI": "http://data.deichman.no/work/w768779d8eafaf700242198c6b8b73257",
+    "mainTitle": "The Apartment",
+    "title": "The Apartment",
+    "publicationYear": 2020,
+    "publicationURI": "http://data.deichman.no/publication/c2d9156f-eef1-4203-973e-f1121a38e7f7",
+    "uri": "http://data.deichman.no/publication/c2d9156f-eef1-4203-973e-f1121a38e7f7",
+    "mediaType": "Film",
+    "formats": [
+      "Blu-ray"
+    ],
+    "homeBranches": [
+      "bjor",
+      "fmaj"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": null,
+      "medium": null,
+      "large": null,
+      "hasAllSizes": false,
+      "useFallback": true,
+      "largest": null,
+      "fallbackColor": "col-ok-3"
+    }
+  },
+  {
+    "tag": "Film",
+    "recordId": "9174924",
+    "workURI": "http://data.deichman.no/work/7c6e42d3-ecb5-4628-bdab-e1d89fcc828b",
+    "mainTitle": "The Karate kid",
+    "title": "The Karate kid",
+    "publicationYear": 2010,
+    "publicationURI": "http://data.deichman.no/publication/cc2c32f3-c25e-43de-9963-a4ca1cdbd5e6",
+    "uri": "http://data.deichman.no/publication/cc2c32f3-c25e-43de-9963-a4ca1cdbd5e6",
+    "coverImage": "/cover-images/cc2c32f3-c25e-43de-9963-a4ca1cdbd5e6.jpg",
+    "mediaType": "Film",
+    "formats": [
+      "DVD"
+    ],
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/cc2c32f3-c25e-43de-9963-a4ca1cdbd5e6.jpg",
+      "medium": "/api/images/resize/270/cover-images/cc2c32f3-c25e-43de-9963-a4ca1cdbd5e6.jpg",
+      "large": "/api/images/resize/420/cover-images/cc2c32f3-c25e-43de-9963-a4ca1cdbd5e6.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/cc2c32f3-c25e-43de-9963-a4ca1cdbd5e6.jpg",
+      "fallbackColor": "col-ok-3"
+    }
+  },
+  {
+    "tag": "Historie",
+    "recordId": "9160614",
+    "mainEntryName": "Norman Davies",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h21023000",
+      "id": "h21023000",
+      "type": "person",
+      "label": "Norman Davies",
+      "slug": "norman-davies",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w9f8f958f982127b7b3c76520d2b9ac8a",
+    "mainTitle": "Vanished kingdoms",
+    "title": "Vanished kingdoms : the history of half-forgotten Europe",
+    "subtitle": "the history of half-forgotten Europe",
+    "publicationYear": 2012,
+    "publicationURI": "http://data.deichman.no/publication/754ee925-1861-4c4c-b1c8-9243f539327a",
+    "uri": "http://data.deichman.no/publication/754ee925-1861-4c4c-b1c8-9243f539327a",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": null,
+      "medium": null,
+      "large": null,
+      "hasAllSizes": false,
+      "useFallback": true,
+      "largest": null,
+      "fallbackColor": "col-ok-3"
+    }
+  },
+  {
+    "tag": "Historie",
+    "recordId": "9183446",
+    "mainEntryName": "David Graeber",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h2046333800",
+      "id": "h2046333800",
+      "type": "person",
+      "label": "David Graeber",
+      "slug": "david-graeber",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w26a12bc28468864c4785561af1048389",
+    "mainTitle": "Debt",
+    "title": "Debt : the first 5,000 years",
+    "subtitle": "the first 5,000 years",
+    "publicationYear": 2021,
+    "publicationURI": "http://data.deichman.no/publication/7c687bed-5466-4b67-bf89-3f0d86e13018",
+    "uri": "http://data.deichman.no/publication/7c687bed-5466-4b67-bf89-3f0d86e13018",
+    "coverImage": "/cover-images/7c687bed-5466-4b67-bf89-3f0d86e13018.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor",
+      "ftor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/7c687bed-5466-4b67-bf89-3f0d86e13018.jpg",
+      "medium": "/api/images/resize/270/cover-images/7c687bed-5466-4b67-bf89-3f0d86e13018.jpg",
+      "large": "/api/images/resize/420/cover-images/7c687bed-5466-4b67-bf89-3f0d86e13018.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/7c687bed-5466-4b67-bf89-3f0d86e13018.jpg",
+      "fallbackColor": "col-ok-3"
+    }
+  },
+  {
+    "tag": "Historie",
+    "recordId": "9147927",
+    "mainEntryName": "Tony Judt",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h34455100",
+      "id": "h34455100",
+      "type": "person",
+      "label": "Tony Judt",
+      "slug": "tony-judt",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w6a58e3de240ad7850ec20b44f3d53bbc",
+    "mainTitle": "Postwar",
+    "title": "Postwar : a history of Europe since 1945",
+    "subtitle": "a history of Europe since 1945",
+    "publicationYear": 2010,
+    "publicationURI": "http://data.deichman.no/publication/p225665268851",
+    "uri": "http://data.deichman.no/publication/p225665268851",
+    "coverImage": "/cover-images/p225665268851.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor",
+      "fmaj"
+    ],
+    "availableBranches": [
+      "bjor",
+      "fmaj"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p225665268851.jpg",
+      "medium": "/api/images/resize/270/cover-images/p225665268851.jpg",
+      "large": "/api/images/resize/420/cover-images/p225665268851.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p225665268851.jpg",
+      "fallbackColor": "col-ok-1"
+    }
+  },
+  {
+    "tag": "Livet",
+    "recordId": "9162781",
+    "mainEntryName": "Keith Johnstone",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h24919200",
+      "id": "h24919200",
+      "type": "person",
+      "label": "Keith Johnstone",
+      "slug": "keith-johnstone",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/wd43ed8beed643bc395ba06f086df3799",
+    "mainTitle": "Impro",
+    "title": "Impro : improvisation and the theatre",
+    "subtitle": "improvisation and the theatre",
+    "publicationYear": 2019,
+    "publicationURI": "http://data.deichman.no/publication/2653acad-8fdc-4f39-80f2-b8ba292ddd7c",
+    "uri": "http://data.deichman.no/publication/2653acad-8fdc-4f39-80f2-b8ba292ddd7c",
+    "coverImage": "/cover-images/2653acad-8fdc-4f39-80f2-b8ba292ddd7c.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/2653acad-8fdc-4f39-80f2-b8ba292ddd7c.jpg",
+      "medium": "/api/images/resize/270/cover-images/2653acad-8fdc-4f39-80f2-b8ba292ddd7c.jpg",
+      "large": "/api/images/resize/420/cover-images/2653acad-8fdc-4f39-80f2-b8ba292ddd7c.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/2653acad-8fdc-4f39-80f2-b8ba292ddd7c.jpg",
+      "fallbackColor": "col-ok-1"
+    }
+  },
+  {
+    "tag": "Livet",
+    "recordId": "9138391",
+    "mainEntryName": "Samin Nosrat",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h391364818702",
+      "id": "h391364818702",
+      "type": "person",
+      "label": "Samin Nosrat",
+      "slug": "samin-nosrat",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w866086062662",
+    "mainTitle": "Salt, fat, acid, heat",
+    "title": "Salt, fat, acid, heat : mastering the elements of good cooking",
+    "subtitle": "mastering the elements of good cooking",
+    "publicationYear": 2017,
+    "publicationURI": "http://data.deichman.no/publication/p160376375888",
+    "uri": "http://data.deichman.no/publication/p160376375888",
+    "coverImage": "/cover-images/p160376375888.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "froa",
+      "bjor",
+      "fgam",
+      "fmaj",
+      "flam",
+      "fhol"
+    ],
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p160376375888.jpg",
+      "medium": "/api/images/resize/270/cover-images/p160376375888.jpg",
+      "large": "/api/images/resize/420/cover-images/p160376375888.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p160376375888.jpg",
+      "fallbackColor": "col-ok-1"
+    }
+  },
+  {
+    "tag": "Livet",
+    "recordId": "579989",
+    "mainEntryName": "Siv Ringdal",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h31808400",
+      "id": "h31808400",
+      "type": "person",
+      "label": "Siv Ringdal",
+      "slug": "siv-ringdal",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w5ed1930c31881bbdd28c25883908fbce",
+    "mainTitle": "Det amerikanske Lista",
+    "title": "Det amerikanske Lista : med 110 volt i huset",
+    "subtitle": "med 110 volt i huset",
+    "publicationYear": 2002,
+    "publicationURI": "http://data.deichman.no/publication/p9aea001328589428efc979dd12445960",
+    "uri": "http://data.deichman.no/publication/p9aea001328589428efc979dd12445960",
+    "coverImage": "/cover-images/p9aea001328589428efc979dd12445960.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p9aea001328589428efc979dd12445960.jpg",
+      "medium": "/api/images/resize/270/cover-images/p9aea001328589428efc979dd12445960.jpg",
+      "large": "/api/images/resize/420/cover-images/p9aea001328589428efc979dd12445960.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p9aea001328589428efc979dd12445960.jpg",
+      "fallbackColor": "col-ok-5"
+    }
+  },
+  {
+    "tag": "Livet",
+    "recordId": "9205559",
+    "mainEntryName": "Christer Sturmark",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/a6029eb7-e953-404f-8f79-af7e84970472",
+      "id": "a6029eb7-e953-404f-8f79-af7e84970472",
+      "type": "person",
+      "label": "Christer Sturmark",
+      "slug": "christer-sturmark",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/f81d8906-59e2-4d0d-9e63-d92e5984032b",
+    "mainTitle": "The flame of reason",
+    "title": "The flame of reason : clear thinking for the twenty-first century",
+    "subtitle": "clear thinking for the twenty-first century",
+    "publicationYear": 2022,
+    "publicationURI": "http://data.deichman.no/publication/53635548-9538-4410-ba05-9bc74867f6fe",
+    "uri": "http://data.deichman.no/publication/53635548-9538-4410-ba05-9bc74867f6fe",
+    "coverImage": "/cover-images/1658991214475482065495736e52120.jpeg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "fmaj",
+      "bjor"
+    ],
+    "availableBranches": [
+      "fmaj",
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/1658991214475482065495736e52120.jpeg",
+      "medium": "/api/images/resize/270/cover-images/1658991214475482065495736e52120.jpeg",
+      "large": "/api/images/resize/420/cover-images/1658991214475482065495736e52120.jpeg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/1658991214475482065495736e52120.jpeg",
+      "fallbackColor": "col-ok-1"
+    }
+  },
+  {
+    "tag": "Livet",
+    "recordId": "747828",
+    "mainEntryName": "Douglas R. Hofstadter",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h16013400",
+      "id": "h16013400",
+      "type": "person",
+      "label": "Douglas R. Hofstadter",
+      "slug": "douglas-r.-hofstadter",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w2d5045ac5d42dec94621757b903c067d",
+    "mainTitle": "I am a strange loop",
+    "title": "I am a strange loop",
+    "publicationYear": 2007,
+    "publicationURI": "http://data.deichman.no/publication/p5f50b5380821d6c6f08fcc41541f8553",
+    "uri": "http://data.deichman.no/publication/p5f50b5380821d6c6f08fcc41541f8553",
+    "coverImage": "/cover-images/p5f50b5380821d6c6f08fcc41541f8553.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p5f50b5380821d6c6f08fcc41541f8553.jpg",
+      "medium": "/api/images/resize/270/cover-images/p5f50b5380821d6c6f08fcc41541f8553.jpg",
+      "large": "/api/images/resize/420/cover-images/p5f50b5380821d6c6f08fcc41541f8553.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p5f50b5380821d6c6f08fcc41541f8553.jpg",
+      "fallbackColor": "col-ok-5"
+    }
+  },
+  {
+    "tag": "Livet",
+    "recordId": "464030",
+    "mainEntryName": "C.S. Lewis",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h10532200",
+      "id": "h10532200",
+      "type": "person",
+      "label": "C.S. Lewis",
+      "slug": "c.s.-lewis",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w97a6cab6543331ada08b821b30bef023",
+    "mainTitle": "An experiment in criticism",
+    "title": "An experiment in criticism",
+    "publicationYear": 1995,
+    "publicationURI": "http://data.deichman.no/publication/p345ff8546599d5c2871517e14befb29f",
+    "uri": "http://data.deichman.no/publication/p345ff8546599d5c2871517e14befb29f",
+    "coverImage": "/cover-images/p345ff8546599d5c2871517e14befb29f.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p345ff8546599d5c2871517e14befb29f.jpg",
+      "medium": "/api/images/resize/270/cover-images/p345ff8546599d5c2871517e14befb29f.jpg",
+      "large": "/api/images/resize/420/cover-images/p345ff8546599d5c2871517e14befb29f.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p345ff8546599d5c2871517e14befb29f.jpg",
+      "fallbackColor": "col-ok-4"
+    }
+  },
+  {
+    "tag": "Livet",
+    "recordId": "563789",
+    "mainEntryName": "Betty Edwards",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h15241600",
+      "id": "h15241600",
+      "type": "person",
+      "label": "Betty Edwards",
+      "slug": "betty-edwards",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/wb60accaa2ffe8e4c2e3e23d67bc2a1da",
+    "mainTitle": "Å tegne er å se",
+    "title": "Å tegne er å se : hvordan du lærer å tegne ved å bruke høyre hjernehalvdel",
+    "subtitle": "hvordan du lærer å tegne ved å bruke høyre hjernehalvdel",
+    "publicationYear": 2001,
+    "publicationURI": "http://data.deichman.no/publication/pf176d133844a5ebfe61354500b9a6d18",
+    "uri": "http://data.deichman.no/publication/pf176d133844a5ebfe61354500b9a6d18",
+    "coverImage": "/cover-images/pf176d133844a5ebfe61354500b9a6d18.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor",
+      "fhol"
+    ],
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/pf176d133844a5ebfe61354500b9a6d18.jpg",
+      "medium": "/api/images/resize/270/cover-images/pf176d133844a5ebfe61354500b9a6d18.jpg",
+      "large": "/api/images/resize/420/cover-images/pf176d133844a5ebfe61354500b9a6d18.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/pf176d133844a5ebfe61354500b9a6d18.jpg",
+      "fallbackColor": "col-ok-5"
+    }
+  },
+  {
+    "tag": "Livet",
+    "recordId": "CIC-6948523",
+    "mainEntryName": "Adam Becker",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/9a6fa842-733e-40a7-a5da-cdd574eb29ce",
+      "id": "9a6fa842-733e-40a7-a5da-cdd574eb29ce",
+      "type": "person",
+      "label": "Adam Becker",
+      "slug": "adam-becker",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/d99707f1-8173-4130-be96-c56f923f61a5",
+    "mainTitle": "More everything forever",
+    "title": "More everything forever : AI overlords, space empires, and Silicon Valley's crusade to control the fate of humanity",
+    "subtitle": "AI overlords, space empires, and Silicon Valley's crusade to control the fate of humanity",
+    "publicationYear": 2025,
+    "publicationURI": "http://data.deichman.no/publication/0e79b5f4-1686-48ce-a45e-1c428f98c572",
+    "uri": "http://data.deichman.no/publication/0e79b5f4-1686-48ce-a45e-1c428f98c572",
+    "coverImage": "/cover-images/0e79b5f4-1686-48ce-a45e-1c428f98c572.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "fmaj",
+      "fgry",
+      "bjor",
+      "fgam",
+      "ftor"
+    ],
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/0e79b5f4-1686-48ce-a45e-1c428f98c572.jpg",
+      "medium": "/api/images/resize/270/cover-images/0e79b5f4-1686-48ce-a45e-1c428f98c572.jpg",
+      "large": "/api/images/resize/420/cover-images/0e79b5f4-1686-48ce-a45e-1c428f98c572.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/0e79b5f4-1686-48ce-a45e-1c428f98c572.jpg",
+      "fallbackColor": "col-ok-3"
+    }
+  },
+  {
+    "tag": "VLKNPV",
+    "recordId": "192693",
+    "mainEntryName": "Pearl Sydenstricker Buck",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h10684100",
+      "id": "h10684100",
+      "type": "person",
+      "label": "Pearl Sydenstricker Buck",
+      "slug": "pearl-sydenstricker-buck",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w7aeecef60f2629fa8543979b9856e26a",
+    "mainTitle": "Den gode jord",
+    "title": "Den gode jord",
+    "publicationYear": 1961,
+    "publicationURI": "http://data.deichman.no/publication/pdc0412c3d21d31c157d133b4261234c7",
+    "uri": "http://data.deichman.no/publication/pdc0412c3d21d31c157d133b4261234c7",
+    "coverImage": "/cover-images/pdc0412c3d21d31c157d133b4261234c7.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/pdc0412c3d21d31c157d133b4261234c7.jpg",
+      "medium": "/api/images/resize/270/cover-images/pdc0412c3d21d31c157d133b4261234c7.jpg",
+      "large": "/api/images/resize/420/cover-images/pdc0412c3d21d31c157d133b4261234c7.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/pdc0412c3d21d31c157d133b4261234c7.jpg",
+      "fallbackColor": "col-ok-5"
+    }
+  },
+  {
+    "tag": "VLKNPV",
+    "recordId": "192719",
+    "mainEntryName": "Pearl Sydenstricker Buck",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h10684100",
+      "id": "h10684100",
+      "type": "person",
+      "label": "Pearl Sydenstricker Buck",
+      "slug": "pearl-sydenstricker-buck",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/d002ca2c-a0d6-432c-a68c-cafd1acb706b",
+    "mainTitle": "Den gode jord ; Sønner ; Veiene skilles",
+    "title": "Den gode jord ; Sønner ; Veiene skilles",
+    "publicationYear": 1986,
+    "publicationURI": "http://data.deichman.no/publication/pa532f7e67ad0f7a3d4c7102b6b88bec2",
+    "uri": "http://data.deichman.no/publication/pa532f7e67ad0f7a3d4c7102b6b88bec2",
+    "coverImage": "/cover-images/pa532f7e67ad0f7a3d4c7102b6b88bec2.jpg",
+    "mediaType": "Bok",
+    "homeBranches": null,
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/pa532f7e67ad0f7a3d4c7102b6b88bec2.jpg",
+      "medium": "/api/images/resize/270/cover-images/pa532f7e67ad0f7a3d4c7102b6b88bec2.jpg",
+      "large": "/api/images/resize/420/cover-images/pa532f7e67ad0f7a3d4c7102b6b88bec2.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/pa532f7e67ad0f7a3d4c7102b6b88bec2.jpg",
+      "fallbackColor": "col-ok-2"
+    }
+  },
+  {
+    "tag": "VLKNPV",
+    "recordId": "273405",
+    "mainEntryName": "Nadine Gordimer",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h13203900",
+      "id": "h13203900",
+      "type": "person",
+      "label": "Nadine Gordimer",
+      "slug": "nadine-gordimer",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/wba777eabb0a2549be2512385278a7e57",
+    "mainTitle": "July's people",
+    "title": "July's people",
+    "publicationYear": 1981,
+    "publicationURI": "http://data.deichman.no/publication/p75574df48c4818ca3bd0c8a0ad636e23",
+    "uri": "http://data.deichman.no/publication/p75574df48c4818ca3bd0c8a0ad636e23",
+    "coverImage": "/cover-images/p75574df48c4818ca3bd0c8a0ad636e23.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p75574df48c4818ca3bd0c8a0ad636e23.jpg",
+      "medium": "/api/images/resize/270/cover-images/p75574df48c4818ca3bd0c8a0ad636e23.jpg",
+      "large": "/api/images/resize/420/cover-images/p75574df48c4818ca3bd0c8a0ad636e23.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p75574df48c4818ca3bd0c8a0ad636e23.jpg",
+      "fallbackColor": "col-ok-2"
+    }
+  },
+  {
+    "tag": "VLKNPV",
+    "recordId": "835785",
+    "mainEntryName": "Pearl Sydenstricker Buck",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h10684100",
+      "id": "h10684100",
+      "type": "person",
+      "label": "Pearl Sydenstricker Buck",
+      "slug": "pearl-sydenstricker-buck",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w7aeecef60f2629fa8543979b9856e26a",
+    "mainTitle": "The good earth",
+    "title": "The good earth",
+    "publicationYear": 2004,
+    "publicationURI": "http://data.deichman.no/publication/p327313f5e1d050736f43cbc1f0ee046a",
+    "uri": "http://data.deichman.no/publication/p327313f5e1d050736f43cbc1f0ee046a",
+    "coverImage": "/cover-images/p327313f5e1d050736f43cbc1f0ee046a.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/p327313f5e1d050736f43cbc1f0ee046a.jpg",
+      "medium": "/api/images/resize/270/cover-images/p327313f5e1d050736f43cbc1f0ee046a.jpg",
+      "large": "/api/images/resize/420/cover-images/p327313f5e1d050736f43cbc1f0ee046a.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/p327313f5e1d050736f43cbc1f0ee046a.jpg",
+      "fallbackColor": "col-ok-1"
+    }
+  },
+  {
+    "tag": "Språk",
+    "recordId": "811951",
+    "mainEntryName": "George Lakoff",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/h31877100",
+      "id": "h31877100",
+      "type": "person",
+      "label": "George Lakoff",
+      "slug": "george-lakoff",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/w7e364336985b10621847833d517d3a55",
+    "mainTitle": "Women, fire, and dangerous things",
+    "title": "Women, fire, and dangerous things : what categories reveal about the mind",
+    "subtitle": "what categories reveal about the mind",
+    "publicationYear": 1990,
+    "publicationURI": "http://data.deichman.no/publication/pd9f8e266c48a3a28eef21c1e509d8424",
+    "uri": "http://data.deichman.no/publication/pd9f8e266c48a3a28eef21c1e509d8424",
+    "coverImage": "/cover-images/pd9f8e266c48a3a28eef21c1e509d8424.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": [
+      "bjor"
+    ],
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/pd9f8e266c48a3a28eef21c1e509d8424.jpg",
+      "medium": "/api/images/resize/270/cover-images/pd9f8e266c48a3a28eef21c1e509d8424.jpg",
+      "large": "/api/images/resize/420/cover-images/pd9f8e266c48a3a28eef21c1e509d8424.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/pd9f8e266c48a3a28eef21c1e509d8424.jpg",
+      "fallbackColor": "col-ok-1"
+    }
+  },
+  {
+    "tag": "Språk",
+    "recordId": "9197798",
+    "mainEntryName": "Amanda Montell",
+    "mainEntryInfo": {
+      "uri": "http://data.deichman.no/person/80573d10-2725-47e5-a314-82a74a94e7ee",
+      "id": "80573d10-2725-47e5-a314-82a74a94e7ee",
+      "type": "person",
+      "label": "Amanda Montell",
+      "slug": "amanda-montell",
+      "number": ""
+    },
+    "workURI": "http://data.deichman.no/work/527f930a-34f3-45b9-8d02-6b67c5efc63c",
+    "mainTitle": "Cultish",
+    "title": "Cultish : the language of fanaticism",
+    "subtitle": "the language of fanaticism",
+    "publicationYear": 2021,
+    "publicationURI": "http://data.deichman.no/publication/dd4f658a-e682-4aa2-a8f8-1d4316c9d4d4",
+    "uri": "http://data.deichman.no/publication/dd4f658a-e682-4aa2-a8f8-1d4316c9d4d4",
+    "coverImage": "/cover-images/1645696184767258140bd52289fc944.jpg",
+    "mediaType": "Bok",
+    "homeBranches": [
+      "bjor"
+    ],
+    "availableBranches": null,
+    "contributors": [],
+    "images": {
+      "small": "/api/images/resize/150/cover-images/1645696184767258140bd52289fc944.jpg",
+      "medium": "/api/images/resize/270/cover-images/1645696184767258140bd52289fc944.jpg",
+      "large": "/api/images/resize/420/cover-images/1645696184767258140bd52289fc944.jpg",
+      "hasAllSizes": true,
+      "useFallback": false,
+      "largest": "/api/images/resize/420/cover-images/1645696184767258140bd52289fc944.jpg",
+      "fallbackColor": "col-ok-6"
+    }
+  }
+]

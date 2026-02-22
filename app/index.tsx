@@ -1,4 +1,7 @@
 import { Text, View } from "react-native";
+import favourites from '@/favourites.json';
+
+const entries = favourites.map((entry) => entry.mainTitle);
 
 export default function Index() {
   return (
@@ -9,7 +12,9 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Edit app/index.tsx to edit this screen.</Text>
+      <ul>
+        {entries.map(ent => <li>{ent}</li>)}
+      </ul>
     </View>
   );
 }

@@ -20,9 +20,7 @@
     "uri": "http://data.deichman.no/publication/p700cd481eefa6fbc8c2b82bfb6a1c91f",
     "coverImage": "/cover-images/p700cd481eefa6fbc8c2b82bfb6a1c91f.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
     "availableBranches": null,
     "contributors": [],
     "images": {
@@ -55,14 +53,8 @@
     "uri": "http://data.deichman.no/publication/p8bf57723b0cb64f1a6df246a590abe14",
     "coverImage": "/cover-images/p8bf57723b0cb64f1a6df246a590abe14.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "fgry",
-      "bjor"
-    ],
-    "availableBranches": [
-      "fgry",
-      "bjor"
-    ],
+    "homeBranches": ["fgry", "bjor"],
+    "availableBranches": ["fgry", "bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p8bf57723b0cb64f1a6df246a590abe14.jpg",
@@ -94,12 +86,8 @@
     "publicationURI": "http://data.deichman.no/publication/pc6f8cb50cd71e77a6485e62e4f8801d3",
     "uri": "http://data.deichman.no/publication/pc6f8cb50cd71e77a6485e62e4f8801d3",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": null,
@@ -131,12 +119,8 @@
     "uri": "http://data.deichman.no/publication/p9da0f7d6e23f4f2d9eb388f4c6e865f5",
     "coverImage": "/cover-images/p9da0f7d6e23f4f2d9eb388f4c6e865f5.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p9da0f7d6e23f4f2d9eb388f4c6e865f5.jpg",
@@ -168,12 +152,8 @@
     "uri": "http://data.deichman.no/publication/p322807763140fb3ad0ba0f19f17efe46",
     "coverImage": "/cover-images/p322807763140fb3ad0ba0f19f17efe46.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p322807763140fb3ad0ba0f19f17efe46.jpg",
@@ -206,13 +186,8 @@
     "uri": "http://data.deichman.no/publication/4aaad71c-e6b2-471b-a48b-b5c1b9f921b7",
     "coverImage": "/cover-images/1699615550640513703b22553138702.jpeg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "fmaj",
-      "fsto"
-    ],
-    "availableBranches": [
-      "fsto"
-    ],
+    "homeBranches": ["fmaj", "fsto"],
+    "availableBranches": ["fsto"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/1699615550640513703b22553138702.jpeg",
@@ -244,12 +219,7 @@
     "uri": "http://data.deichman.no/publication/p360868646297",
     "coverImage": "/cover-images/p360868646297.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor",
-      "flam",
-      "fnyd",
-      "fsto"
-    ],
+    "homeBranches": ["bjor", "flam", "fnyd", "fsto"],
     "availableBranches": null,
     "contributors": [],
     "images": {
@@ -282,12 +252,8 @@
     "uri": "http://data.deichman.no/publication/1329e3c2-d981-48bc-a264-5969a69c666c",
     "coverImage": "/cover-images/1329e3c2-d981-48bc-a264-5969a69c666c.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/1329e3c2-d981-48bc-a264-5969a69c666c.jpg",
@@ -319,17 +285,8 @@
     "uri": "http://data.deichman.no/publication/p884819998037",
     "coverImage": "/cover-images/1771241278650085121e1829525b0cf.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "fnor",
-      "ffur",
-      "bjor",
-      "flam",
-      "fgry"
-    ],
-    "availableBranches": [
-      "flam",
-      "fgry"
-    ],
+    "homeBranches": ["fnor", "ffur", "bjor", "flam", "fgry"],
+    "availableBranches": ["flam", "fgry"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/1771241278650085121e1829525b0cf.jpg",
@@ -362,12 +319,8 @@
     "uri": "http://data.deichman.no/publication/p470e75381081ca85edd542cccc6562e1",
     "coverImage": "/cover-images/p470e75381081ca85edd542cccc6562e1.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p470e75381081ca85edd542cccc6562e1.jpg",
@@ -399,23 +352,8 @@
     "uri": "http://data.deichman.no/publication/p82c688e266d23dbd18c21d99d4608add",
     "coverImage": "/cover-images/p82c688e266d23dbd18c21d99d4608add.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "fbje",
-      "fhol",
-      "froa",
-      "fgam",
-      "fnyd",
-      "fgry",
-      "ffur"
-    ],
-    "availableBranches": [
-      "fhol",
-      "froa",
-      "fgam",
-      "fnyd",
-      "fgry",
-      "ffur"
-    ],
+    "homeBranches": ["fbje", "fhol", "froa", "fgam", "fnyd", "fgry", "ffur"],
+    "availableBranches": ["fhol", "froa", "fgam", "fnyd", "fgry", "ffur"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p82c688e266d23dbd18c21d99d4608add.jpg",
@@ -447,12 +385,8 @@
     "uri": "http://data.deichman.no/publication/pc536e045771ecab98b042a371284b77f",
     "coverImage": "/cover-images/pc536e045771ecab98b042a371284b77f.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/pc536e045771ecab98b042a371284b77f.jpg",
@@ -484,12 +418,8 @@
     "uri": "http://data.deichman.no/publication/29f99d59-da9f-4056-aa3e-e6dce317af34",
     "coverImage": "/cover-images/1646729662040853791444cfa148b4f.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "fgry"
-    ],
-    "availableBranches": [
-      "fgry"
-    ],
+    "homeBranches": ["fgry"],
+    "availableBranches": ["fgry"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/1646729662040853791444cfa148b4f.jpg",
@@ -520,12 +450,8 @@
     "publicationURI": "http://data.deichman.no/publication/p4a8d8c6b0ecdcd85298b7515503fffe5",
     "uri": "http://data.deichman.no/publication/p4a8d8c6b0ecdcd85298b7515503fffe5",
     "mediaType": "Noter",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": null,
@@ -557,12 +483,8 @@
     "uri": "http://data.deichman.no/publication/p94ea78cf3d0a00755d92102a5515085f",
     "coverImage": "/cover-images/p94ea78cf3d0a00755d92102a5515085f.jpg",
     "mediaType": "Noter",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p94ea78cf3d0a00755d92102a5515085f.jpg",
@@ -594,12 +516,8 @@
     "uri": "http://data.deichman.no/publication/p8654cd86cf0f2619b3d32cb58583fbfb",
     "coverImage": "/cover-images/p8654cd86cf0f2619b3d32cb58583fbfb.jpg",
     "mediaType": "Noter",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p8654cd86cf0f2619b3d32cb58583fbfb.jpg",
@@ -632,12 +550,8 @@
     "uri": "http://data.deichman.no/publication/65a3ec63-1f29-4f70-962b-567360d616cc",
     "coverImage": "/cover-images/65a3ec63-1f29-4f70-962b-567360d616cc.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/65a3ec63-1f29-4f70-962b-567360d616cc.jpg",
@@ -670,12 +584,8 @@
     "uri": "http://data.deichman.no/publication/pd08979cc387f088b8277a2ebf827cb32",
     "coverImage": "/cover-images/pd08979cc387f088b8277a2ebf827cb32.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/pd08979cc387f088b8277a2ebf827cb32.jpg",
@@ -697,12 +607,8 @@
     "publicationURI": "http://data.deichman.no/publication/p05782a0a9aa46bb02824f1f24ad9d5ca",
     "uri": "http://data.deichman.no/publication/p05782a0a9aa46bb02824f1f24ad9d5ca",
     "mediaType": "Film",
-    "formats": [
-      "DVD"
-    ],
-    "homeBranches": [
-      "fgry"
-    ],
+    "formats": ["DVD"],
+    "homeBranches": ["fgry"],
     "availableBranches": null,
     "contributors": [],
     "images": {
@@ -725,15 +631,9 @@
     "publicationURI": "http://data.deichman.no/publication/p7d9b89551c0604f123eda8cfe5d7df50",
     "uri": "http://data.deichman.no/publication/p7d9b89551c0604f123eda8cfe5d7df50",
     "mediaType": "Film",
-    "formats": [
-      "DVD"
-    ],
-    "homeBranches": [
-      "froa"
-    ],
-    "availableBranches": [
-      "froa"
-    ],
+    "formats": ["DVD"],
+    "homeBranches": ["froa"],
+    "availableBranches": ["froa"],
     "contributors": [],
     "images": {
       "small": null,
@@ -755,13 +655,8 @@
     "publicationURI": "http://data.deichman.no/publication/pcd4d25fdda2a391856e45278883f2e1c",
     "uri": "http://data.deichman.no/publication/pcd4d25fdda2a391856e45278883f2e1c",
     "mediaType": "Film",
-    "formats": [
-      "DVD"
-    ],
-    "homeBranches": [
-      "froa",
-      "bjor"
-    ],
+    "formats": ["DVD"],
+    "homeBranches": ["froa", "bjor"],
     "availableBranches": null,
     "contributors": [],
     "images": {
@@ -785,15 +680,9 @@
     "publicationURI": "http://data.deichman.no/publication/p3cbeab7b78cc3344b560f7f9376ba467",
     "uri": "http://data.deichman.no/publication/p3cbeab7b78cc3344b560f7f9376ba467",
     "mediaType": "Film",
-    "formats": [
-      "DVD"
-    ],
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "formats": ["DVD"],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": null,
@@ -816,21 +705,9 @@
     "uri": "http://data.deichman.no/publication/p66491622045c9ee0d0fff7246ceaaddc",
     "coverImage": "/cover-images/p66491622045c9ee0d0fff7246ceaaddc.jpg",
     "mediaType": "Film",
-    "formats": [
-      "DVD"
-    ],
-    "homeBranches": [
-      "froa",
-      "fsto",
-      "fnyd",
-      "fhol"
-    ],
-    "availableBranches": [
-      "froa",
-      "fsto",
-      "fnyd",
-      "fhol"
-    ],
+    "formats": ["DVD"],
+    "homeBranches": ["froa", "fsto", "fnyd", "fhol"],
+    "availableBranches": ["froa", "fsto", "fnyd", "fhol"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p66491622045c9ee0d0fff7246ceaaddc.jpg",
@@ -853,13 +730,8 @@
     "uri": "http://data.deichman.no/publication/p94f57081a1c57b33c007b9da9d6589a7",
     "coverImage": "/cover-images/p94f57081a1c57b33c007b9da9d6589a7.jpg",
     "mediaType": "Film",
-    "formats": [
-      "DVD"
-    ],
-    "homeBranches": [
-      "froa",
-      "bjor"
-    ],
+    "formats": ["DVD"],
+    "homeBranches": ["froa", "bjor"],
     "availableBranches": null,
     "contributors": [],
     "images": {
@@ -882,19 +754,9 @@
     "publicationURI": "http://data.deichman.no/publication/pbb763a4afde05814af392081d861767c",
     "uri": "http://data.deichman.no/publication/pbb763a4afde05814af392081d861767c",
     "mediaType": "Film",
-    "formats": [
-      "DVD"
-    ],
-    "homeBranches": [
-      "fnyd",
-      "bjor",
-      "flam"
-    ],
-    "availableBranches": [
-      "fnyd",
-      "bjor",
-      "flam"
-    ],
+    "formats": ["DVD"],
+    "homeBranches": ["fnyd", "bjor", "flam"],
+    "availableBranches": ["fnyd", "bjor", "flam"],
     "contributors": [],
     "images": {
       "small": null,
@@ -917,12 +779,8 @@
     "uri": "http://data.deichman.no/publication/43793a71-1034-4547-b6b0-b614ed79f596",
     "coverImage": "/cover-images/43793a71-1034-4547-b6b0-b614ed79f596.jpg",
     "mediaType": "Film",
-    "formats": [
-      "Blu-ray"
-    ],
-    "homeBranches": [
-      "bjor"
-    ],
+    "formats": ["Blu-ray"],
+    "homeBranches": ["bjor"],
     "availableBranches": null,
     "contributors": [],
     "images": {
@@ -945,13 +803,8 @@
     "publicationURI": "http://data.deichman.no/publication/42ab3a74-5cde-40ee-8f2d-2854fd951ede",
     "uri": "http://data.deichman.no/publication/42ab3a74-5cde-40ee-8f2d-2854fd951ede",
     "mediaType": "Film",
-    "formats": [
-      "Blu-ray"
-    ],
-    "homeBranches": [
-      "froa",
-      "bjor"
-    ],
+    "formats": ["Blu-ray"],
+    "homeBranches": ["froa", "bjor"],
     "availableBranches": null,
     "contributors": [],
     "images": {
@@ -974,16 +827,9 @@
     "publicationURI": "http://data.deichman.no/publication/c2d9156f-eef1-4203-973e-f1121a38e7f7",
     "uri": "http://data.deichman.no/publication/c2d9156f-eef1-4203-973e-f1121a38e7f7",
     "mediaType": "Film",
-    "formats": [
-      "Blu-ray"
-    ],
-    "homeBranches": [
-      "bjor",
-      "fmaj"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "formats": ["Blu-ray"],
+    "homeBranches": ["bjor", "fmaj"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": null,
@@ -1006,15 +852,9 @@
     "uri": "http://data.deichman.no/publication/cc2c32f3-c25e-43de-9963-a4ca1cdbd5e6",
     "coverImage": "/cover-images/cc2c32f3-c25e-43de-9963-a4ca1cdbd5e6.jpg",
     "mediaType": "Film",
-    "formats": [
-      "DVD"
-    ],
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "formats": ["DVD"],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/cc2c32f3-c25e-43de-9963-a4ca1cdbd5e6.jpg",
@@ -1046,12 +886,8 @@
     "publicationURI": "http://data.deichman.no/publication/754ee925-1861-4c4c-b1c8-9243f539327a",
     "uri": "http://data.deichman.no/publication/754ee925-1861-4c4c-b1c8-9243f539327a",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": null,
@@ -1084,13 +920,8 @@
     "uri": "http://data.deichman.no/publication/7c687bed-5466-4b67-bf89-3f0d86e13018",
     "coverImage": "/cover-images/7c687bed-5466-4b67-bf89-3f0d86e13018.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor",
-      "ftor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor", "ftor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/7c687bed-5466-4b67-bf89-3f0d86e13018.jpg",
@@ -1123,14 +954,8 @@
     "uri": "http://data.deichman.no/publication/p225665268851",
     "coverImage": "/cover-images/p225665268851.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor",
-      "fmaj"
-    ],
-    "availableBranches": [
-      "bjor",
-      "fmaj"
-    ],
+    "homeBranches": ["bjor", "fmaj"],
+    "availableBranches": ["bjor", "fmaj"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p225665268851.jpg",
@@ -1163,9 +988,7 @@
     "uri": "http://data.deichman.no/publication/2653acad-8fdc-4f39-80f2-b8ba292ddd7c",
     "coverImage": "/cover-images/2653acad-8fdc-4f39-80f2-b8ba292ddd7c.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
     "availableBranches": null,
     "contributors": [],
     "images": {
@@ -1199,14 +1022,7 @@
     "uri": "http://data.deichman.no/publication/p160376375888",
     "coverImage": "/cover-images/p160376375888.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "froa",
-      "bjor",
-      "fgam",
-      "fmaj",
-      "flam",
-      "fhol"
-    ],
+    "homeBranches": ["froa", "bjor", "fgam", "fmaj", "flam", "fhol"],
     "availableBranches": null,
     "contributors": [],
     "images": {
@@ -1240,12 +1056,8 @@
     "uri": "http://data.deichman.no/publication/p9aea001328589428efc979dd12445960",
     "coverImage": "/cover-images/p9aea001328589428efc979dd12445960.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p9aea001328589428efc979dd12445960.jpg",
@@ -1278,14 +1090,8 @@
     "uri": "http://data.deichman.no/publication/53635548-9538-4410-ba05-9bc74867f6fe",
     "coverImage": "/cover-images/1658991214475482065495736e52120.jpeg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "fmaj",
-      "bjor"
-    ],
-    "availableBranches": [
-      "fmaj",
-      "bjor"
-    ],
+    "homeBranches": ["fmaj", "bjor"],
+    "availableBranches": ["fmaj", "bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/1658991214475482065495736e52120.jpeg",
@@ -1317,12 +1123,8 @@
     "uri": "http://data.deichman.no/publication/p5f50b5380821d6c6f08fcc41541f8553",
     "coverImage": "/cover-images/p5f50b5380821d6c6f08fcc41541f8553.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p5f50b5380821d6c6f08fcc41541f8553.jpg",
@@ -1354,12 +1156,8 @@
     "uri": "http://data.deichman.no/publication/p345ff8546599d5c2871517e14befb29f",
     "coverImage": "/cover-images/p345ff8546599d5c2871517e14befb29f.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p345ff8546599d5c2871517e14befb29f.jpg",
@@ -1392,10 +1190,7 @@
     "uri": "http://data.deichman.no/publication/pf176d133844a5ebfe61354500b9a6d18",
     "coverImage": "/cover-images/pf176d133844a5ebfe61354500b9a6d18.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor",
-      "fhol"
-    ],
+    "homeBranches": ["bjor", "fhol"],
     "availableBranches": null,
     "contributors": [],
     "images": {
@@ -1429,13 +1224,7 @@
     "uri": "http://data.deichman.no/publication/0e79b5f4-1686-48ce-a45e-1c428f98c572",
     "coverImage": "/cover-images/0e79b5f4-1686-48ce-a45e-1c428f98c572.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "fmaj",
-      "fgry",
-      "bjor",
-      "fgam",
-      "ftor"
-    ],
+    "homeBranches": ["fmaj", "fgry", "bjor", "fgam", "ftor"],
     "availableBranches": null,
     "contributors": [],
     "images": {
@@ -1468,9 +1257,7 @@
     "uri": "http://data.deichman.no/publication/pdc0412c3d21d31c157d133b4261234c7",
     "coverImage": "/cover-images/pdc0412c3d21d31c157d133b4261234c7.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
     "availableBranches": null,
     "contributors": [],
     "images": {
@@ -1536,12 +1323,8 @@
     "uri": "http://data.deichman.no/publication/p75574df48c4818ca3bd0c8a0ad636e23",
     "coverImage": "/cover-images/p75574df48c4818ca3bd0c8a0ad636e23.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p75574df48c4818ca3bd0c8a0ad636e23.jpg",
@@ -1573,12 +1356,8 @@
     "uri": "http://data.deichman.no/publication/p327313f5e1d050736f43cbc1f0ee046a",
     "coverImage": "/cover-images/p327313f5e1d050736f43cbc1f0ee046a.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/p327313f5e1d050736f43cbc1f0ee046a.jpg",
@@ -1611,12 +1390,8 @@
     "uri": "http://data.deichman.no/publication/pd9f8e266c48a3a28eef21c1e509d8424",
     "coverImage": "/cover-images/pd9f8e266c48a3a28eef21c1e509d8424.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
-    "availableBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
+    "availableBranches": ["bjor"],
     "contributors": [],
     "images": {
       "small": "/api/images/resize/150/cover-images/pd9f8e266c48a3a28eef21c1e509d8424.jpg",
@@ -1649,9 +1424,7 @@
     "uri": "http://data.deichman.no/publication/dd4f658a-e682-4aa2-a8f8-1d4316c9d4d4",
     "coverImage": "/cover-images/1645696184767258140bd52289fc944.jpg",
     "mediaType": "Bok",
-    "homeBranches": [
-      "bjor"
-    ],
+    "homeBranches": ["bjor"],
     "availableBranches": null,
     "contributors": [],
     "images": {

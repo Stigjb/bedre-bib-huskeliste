@@ -1,20 +1,15 @@
-import { Text, View } from "react-native";
+import { Text, ScrollView } from "react-native";
 import favourites from '@/favourites.json';
+import { BookComponent } from "@/components/Book";
 
-const entries = favourites.map((entry) => entry.mainTitle);
+const entries = favourites.map((entry) => <BookComponent {...entry} />);
 
 export default function Index() {
   return (
-    <View
-      style={{
-        flex: 1,
-        justifyContent: "center",
-        alignItems: "center",
-      }}
-    >
+    <ScrollView>
       <ul>
         {entries.map(ent => <li>{ent}</li>)}
       </ul>
-    </View>
+    </ScrollView>
   );
 }

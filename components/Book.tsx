@@ -1,8 +1,9 @@
+import getBranchName from "@/lib/getBranchName";
 import { View, Text, StyleSheet } from "react-native";
 
 type Props = {
   title: string;
-  mainEntryName: string;
+  mainEntryName?: string;
   mainTitle: string;
   mediaType: string;
   availableBranches: string[] | null;
@@ -12,7 +13,8 @@ function Availability({ branches }: { branches: string[] | null }) {
   if (branches === null) {
     return null;
   }
-  return <Text>Ledig ved {branches.join(", ")}</Text>;
+  const namedBranches = branches.map(getBranchName);
+  return <Text>Ledig ved {namedBranches.join(", ")}</Text>;
 }
 
 export function BookComponent({
@@ -36,7 +38,7 @@ export function BookComponent({
         {emoji}
         {title}
       </Text>
-      <Text style={styles.author}>{mainEntryName}</Text>
+     {mainEntryName && <Text style={styles.author}>{mainEntryName}</Text>}
       <Availability branches={availableBranches} />
     </View>
   );

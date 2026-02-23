@@ -1,0 +1,2067 @@
+[
+  {
+    "id": "930919e7",
+    "ciceroId": "NO-2031504",
+    "city": "Oslo",
+    "email": "biblo.holmlia@deichman.no",
+    "extendedOpeningHours": false,
+    "facebook": "https://www.facebook.com/deichman.biblo.holmlia",
+    "floors": [],
+    "geoLocation": "https://maps.app.goo.gl/LmxeD5mEey9LVZQ5A",
+    "image": [
+      {
+        "url": "/tjenestekatalog/17080191640391422741dc97a354bb7.jpeg",
+        "credits": "Eivind Rutle",
+        "altName": "Biblokjøkkenet"
+      },
+      {
+        "url": "/tjenestekatalog/170801918879456860389d65b5d141b.jpeg",
+        "credits": "Eivind Rutle",
+        "altName": "Jungelen"
+      },
+      {
+        "url": "/tjenestekatalog/1763736793284361390e8a07ee14e56.png",
+        "credits": "Eivind Rutle",
+        "altName": null,
+        "focalPoint": {
+          "x": 158,
+          "y": 2667,
+          "relX": 39,
+          "relY": 1084
+        }
+      }
+    ],
+    "instagram": "https://www.instagram.com/biblo.holmlia/",
+    "kohaId": "bholm",
+    "name": "Biblo Holmlia",
+    "phoneNumber": "23432900",
+    "profileImage": {
+      "url": "/tjenestekatalog/17080190854565829538e3c7f92f939.jpeg",
+      "altName": "",
+      "credits": "Eivind Rutle"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Biblo Holmlia",
+    "streetAddress": "Holmlia Senter vei 17",
+    "zip": "1255",
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket",
+          "language": {
+            "id": "no"
+          }
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Deichman Biblo Holmlia et helt nytt, unikt bibliotek kun for deg som går i 5.-8.  klasse! Her slipper ingen voksne inn. På Biblo Holmlia kan du lære noe nytt, spille, lage mat, møte gamle og nye venner. Du kan bygge, utforske ting du er interessert i, få hjelp til leksene og lese bøker og tegneserier. Noe av det beste med Biblo er at du og alle de andre som bruker biblioteket er med på å bestemme hva som skal skje. \n\nKom og bli med på moroa!"
+            },
+            "order": 0
+          },
+          {
+            "blockType": "link",
+            "data": {
+              "linkType": "external",
+              "text": "Er du lærer for 5-8.klasse og har lyst til å komme til oss på formidlingsbesøk? Book her:",
+              "url": "https://deichman.no/vi-tilbyr/formidling20til20skoler_4cc26b32-829e-402b-a4aa-b0fa3d79e552"
+            },
+            "order": 1
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true,
+    "snapchat": null
+  },
+  {
+    "id": "fb445d91-6c4c-4487-bd58-5ac34436635a",
+    "ciceroId": "NO-2030100",
+    "city": "Oslo",
+    "email": "biblo@deichman.no",
+    "extendedOpeningHours": false,
+    "facebook": "https://www.facebook.com/deichman.biblo.toyen/",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/QQVgiXWZrBn",
+    "image": [
+      {
+        "url": "/tjenestekatalog/1628939163463023068fda697cda4b0.jpeg",
+        "altName": "",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1628939263250604167ddf2b94d48d2.jpeg",
+        "altName": "",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1628939790005734385e59d9fa2ce95.jpeg",
+        "altName": "",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "https://www.instagram.com/biblotoyen",
+    "kohaId": "btoyen",
+    "name": "Biblo Tøyen",
+    "phoneNumber": "46907397",
+    "profileImage": {
+      "url": "/tjenestekatalog/16289397035756979021a85bc87f6bb.jpeg",
+      "altName": "På Deichman Biblo Tøyen kan barna gjøre lekser i en gammel gondolheis.",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Biblo Tøyen",
+    "streetAddress": "Hagegata 22",
+    "zip": "0653",
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket",
+          "language": null
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Deichman Biblo Tøyen er mye mer enn et bibliotek. Det er en plass hvor du kan delta. Hvor du kan lage noe kult. Hvor du får verktøy til å klare deg bra i livet. En pauseknapp. Et sted du kan føle deg trygg. Få hjelp til leksene. Bli inspirert. Oppdage noe nytt og bli overraska. Deichman Biblo Tøyen er et fantasiunivers hvor alt plutselig er snudd på hodet. Deichman Biblo Tøyen er KUN for deg mellom 10 og 15 år."
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true,
+    "snapchat": null
+  },
+  {
+    "id": "c8d8c4fa-caa0-4757-aa11-df555959a4e7",
+    "ciceroId": "NO-2032000",
+    "city": "Oslo",
+    "email": "bjerke@deichman.no",
+    "extendedOpeningHours": true,
+    "facebook": "https://www.facebook.com/deichman.bjerke",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/r8AHNS5B2TS2",
+    "image": [
+      {
+        "url": "/tjenestekatalog/17504251361082281112230046a0328.jpeg",
+        "altName": "",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/17504251617216823040d296c49265d.jpeg",
+        "credits": "Foto: Erik Thallaug",
+        "altName": null
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichman.bjerke/",
+    "kohaId": "fbje",
+    "name": "Bjerke",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/17504251248883307532c4b06af5f70.jpeg",
+      "altName": "",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Bjerke",
+    "streetAddress": "Refstadveien 70",
+    "zip": "0589",
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Du finner oss vis-à-vis Bjerke Travbane. Her kan du låne bøker, filmer, lydbøker og magasiner.  Det er også mulig å låne PC, podkastutstyr og symaskin."
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "snapchat": null,
+    "hideHoldings": false,
+    "isPickupBranch": true
+  },
+  {
+    "id": "debbcb8d-cf5c-4fd6-8cf0-211710959eb1",
+    "ciceroId": "NO-2031502",
+    "city": "Oslo",
+    "email": "bjornholt@deichman.no",
+    "extendedOpeningHours": false,
+    "facebook": "https://www.facebook.com/deichman.bjornholt",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/R5YTRPVpTK92",
+    "image": [
+      {
+        "url": "/tjenestekatalog/1605527206319830953cc1a96cdafde.jpg",
+        "altName": "En mannlig elev som leser en bok. ",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1554393546793164904a534ff1512b1.jpg",
+        "altName": "En eldre mann som låner en PC.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1605527237870116715cb245e74e091.jpg",
+        "altName": "To kvinnelige elever på biblioteket.",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichman.bjornholt/",
+    "kohaId": "fbjo",
+    "name": "Bjørnholt",
+    "phoneNumber": "23 43 29 00 (sentralbord) 91 38 24 39 (direkte)",
+    "profileImage": {
+      "url": "/tjenestekatalog/15543927979677115914eb68ddce38a.jpg",
+      "altName": "Bilde tatt like utenfor Deichman Bjørnholt.",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Bjørnholt",
+    "streetAddress": "Slimeveien 17",
+    "zip": "1275",
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Biblioteket holder til i Bjørnholt videregående skole og er et tilbud til skolen og alle i nærmiljøet. Vi tar også imot klasser og barnehager som vil besøke oss. Velkommen til ditt lokalbibliotek!"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true
+  },
+  {
+    "id": "ff30ba59-a32b-46e5-b47e-a438c0891f2f",
+    "ciceroId": "NO-2030000",
+    "city": "Oslo",
+    "email": "hjelp@deichmanske.zendesk.com",
+    "extendedOpeningHours": false,
+    "facebook": "https://www.facebook.com/deichman.bjorvika",
+    "geoLocation": "https://goo.gl/maps/AU8dmbAx4b5xufsq5",
+    "image": [
+      {
+        "url": "/tjenestekatalog/175042449682642829443bb48b47f83.jpeg",
+        "credits": "Foto: Erik Thallaug",
+        "altName": null
+      },
+      {
+        "url": "/tjenestekatalog/1750424511727769090b85373c5fe3f.jpeg",
+        "credits": "Foto: Erik Thallaug",
+        "altName": null
+      },
+      {
+        "url": "/tjenestekatalog/1751022194638448956e6b5a60e9f71.jpeg",
+        "credits": "Foto: Reflektor"
+      },
+      {
+        "url": "/tjenestekatalog/17510222786932326228d3f52e55b72.jpeg",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichmanbjorvika/",
+    "kohaId": "bjor",
+    "name": "Bjørvika",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/1751022131653896285514f046d085e.jpeg",
+      "altName": "",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Bjørvika",
+    "streetAddress": "Anne-Cath. Vestlys plass 1",
+    "zip": "0150",
+    "floors": [
+      {
+        "id": "cdc393f2-ef19-456d-a269-d3a2d3170905",
+        "rooms": [
+          {
+            "id": "39f3d066-abd4-4b23-a811-12fd664fe33e",
+            "displayName": "Bjørnerud"
+          },
+          {
+            "id": "12802dce-bcf8-4d66-ac6f-2c95c7145c75",
+            "displayName": "Trosterud"
+          },
+          {
+            "id": "d9548c48-1314-4240-911e-875d34957d2f",
+            "displayName": "Kringsjå"
+          },
+          {
+            "id": "abaf89ee-c9fc-4078-b02d-2371328eba68",
+            "displayName": "5. etasje"
+          },
+          {
+            "id": "6a5c43b8-b79d-47d3-bd0b-5d53ac736ff4",
+            "displayName": "Madserud"
+          }
+        ],
+        "name": "5. etasje",
+        "level": 5
+      },
+      {
+        "id": "ce77177c-0708-4992-b7ac-0d571f808721",
+        "rooms": [
+          {
+            "id": "4786875f-3a35-434e-953d-982fbdc5c3fa",
+            "displayName": "Rodeløkka"
+          },
+          {
+            "id": "730b5704-afad-11ea-b3de-0242ac130004",
+            "displayName": "Folkeverkstedet"
+          },
+          {
+            "id": "0b9ec331-0e6f-402a-af3e-98c53067367e",
+            "displayName": "Bolteløkka"
+          },
+          {
+            "id": "1cf1e046-d4ca-49c8-8acb-dc03a76f6a5f",
+            "displayName": "Minikino"
+          },
+          {
+            "id": "ba5b70c5-297c-48f6-814f-7c785acf5c4f",
+            "displayName": "Apalløkka"
+          },
+          {
+            "id": "d59f5bc4-b4c4-498a-8678-9fe94c387426",
+            "displayName": "Lydrom 1"
+          },
+          {
+            "id": "4f1b96f2-7a2f-4559-b010-acb382b36fbc",
+            "displayName": "3. etasje"
+          },
+          {
+            "id": "dbbf1efb-9198-49e1-bd2f-c933c767baf9",
+            "displayName": "Spillrom"
+          },
+          {
+            "id": "9b15430a-879b-4112-933d-42cecf0b5355",
+            "displayName": "Musikkscenen"
+          },
+          {
+            "id": "b0690f41-0d3c-479a-9b4c-f37188beaf52",
+            "displayName": "Lydrom 2"
+          }
+        ],
+        "name": "3. etasje",
+        "level": 3
+      },
+      {
+        "id": "eafce5f1-4889-413b-8848-1d211378574c",
+        "rooms": [
+          {
+            "id": "5db97529-70c6-43fc-8261-4e62806d9f85",
+            "displayName": "Kampen"
+          },
+          {
+            "id": "764d3d4a-3e02-4405-a3dc-12771ab4a2f2",
+            "displayName": "Borgen"
+          },
+          {
+            "id": "7720a30b-5995-4453-aff8-7dbaad802038",
+            "displayName": "Lunden"
+          },
+          {
+            "id": "f43da266-7e8e-4468-a328-1ce66ebe3710",
+            "displayName": "Skogen"
+          },
+          {
+            "id": "6b388fd3-1f18-44b6-9805-5de35d542e89",
+            "displayName": "4. etasje"
+          },
+          {
+            "id": "1526858b-d396-4505-930e-745c815f7a21",
+            "displayName": "Disen"
+          }
+        ],
+        "name": "4. etasje",
+        "level": 4
+      },
+      {
+        "id": "1ab6c2a3-374a-435c-90fa-276ebf7ef357",
+        "rooms": [
+          {
+            "id": "7eb91da6-2074-4634-8dc1-fcbe28463804",
+            "displayName": "1. etasje"
+          },
+          {
+            "id": "8b4e267b-e6b3-464d-9c3d-27f5b0e0e48b",
+            "displayName": "Centropa"
+          },
+          {
+            "id": "b1aee92a-f1b4-4d92-b5e0-5ab05ca504fd",
+            "displayName": "Torget"
+          },
+          {
+            "id": "ffff7a46-38d1-4432-beec-51367d039015",
+            "displayName": "Anne Cath. Vestlys plass"
+          },
+          {
+            "id": "c7edaa02-db2e-11ec-940c-850b93c59754",
+            "displayName": "Nomaden"
+          },
+          {
+            "id": "bd2808fd13c3",
+            "displayName": "Snippen"
+          }
+        ],
+        "name": "1. etasje",
+        "level": 1
+      },
+      {
+        "id": "358ce8f4-d328-410d-bd9a-d47187194553",
+        "rooms": [
+          {
+            "id": "558deb5b-cee0-4d3b-8b47-282dee8523f9",
+            "displayName": "Underetasje"
+          },
+          {
+            "id": "d1f42935-9b0d-4e11-aa48-cfbcbaf39bd5",
+            "displayName": "Kino"
+          },
+          {
+            "id": "f46ed5e0-e9dd-41ce-924b-7034f647a759",
+            "displayName": "Foajé"
+          },
+          {
+            "id": "35fa9a83-d0e8-49e7-9198-d470b7856726",
+            "displayName": "Deichmansalen"
+          },
+          {
+            "id": "3cecada5-cedd-4abf-b4ad-950b7d818960",
+            "displayName": "Nøklevann"
+          },
+          {
+            "id": "aeffd8d2-2728-4afb-a251-22c7648d957e",
+            "displayName": "Blankvann"
+          }
+        ],
+        "name": "Underetasje",
+        "level": 0
+      },
+      {
+        "id": "c65bb4dd-1ba4-44f7-b517-c4e0902b937e",
+        "rooms": [
+          {
+            "id": "958d9405-9f9d-4a72-9982-3eb47bd7cf73",
+            "displayName": "Verksted barn"
+          },
+          {
+            "id": "0799b5fa-810b-4e88-8f25-7512b7427260",
+            "displayName": "2. etasje"
+          },
+          {
+            "id": "bc24f45a-49ef-42dc-80c2-9f67f24f9656",
+            "displayName": "Hulen"
+          },
+          {
+            "id": "0bbded11-46e2-4f6a-a043-5bd77bf2e5e7",
+            "displayName": "Lesefjellet"
+          },
+          {
+            "id": "622e47f2-4376-4680-9964-eee65b540824",
+            "displayName": "Fuglefjellet"
+          }
+        ],
+        "name": "2. etasje",
+        "level": 2
+      }
+    ],
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Deichman Bjørvika er hele Oslos hovedbibliotek. Seks etasjer med litteratur, lese- og studieplasser, scener, kinosal og verksteder for store og små. Kunnskapsrike bibliotekansatte inviterer deg til fordypning, kunnskap og glede - på dine premisser. \n\n\n"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "snapchat": null,
+    "hideHoldings": false,
+    "isPickupBranch": true
+  },
+  {
+    "id": "68a6b9d7-7c54-475f-9586-7f610490f670",
+    "ciceroId": "",
+    "city": "Kløfta",
+    "email": "siri.traneid@deichman.no",
+    "extendedOpeningHours": false,
+    "facebook": "",
+    "floors": [],
+    "geoLocation": "https://maps.app.goo.gl/ex7JPHG7CYiRiFJj7",
+    "image": [
+      {
+        "url": "/tjenestekatalog/15905627172023106631b1e5f003539.jpg",
+        "altName": "",
+        "credits": "Erik Thallaug"
+      }
+    ],
+    "instagram": "",
+    "kohaId": "",
+    "name": "Bredtveit kvinnefengsel",
+    "phoneNumber": "63 92 81 14",
+    "profileImage": {
+      "url": "/tjenestekatalog/15683768894182269359bb0aac359fd.jpg",
+      "altName": "Deichman Bredtveit",
+      "credits": "Foto: Lars Schwed Nygård"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Bredtveit",
+    "streetAddress": "Ullersmovegen 5",
+    "zip": "2040",
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Bredtveit fengsel er midlertidig flyttet til Romerike fengsel (avdeling Ullersmo) og Deichman har blitt med på flyttingen. Biblioteket kan kun brukes av innsatte eller ansatte ved Bredtveit fengsel og forvaringsanstalt, og er et populært samlingssted for alt fra nyheter til arrangement. Bredtveit fengsel og Deichman Bredtveit vil holde til i Ullersmo fengsel frem til fengselet flytter tilbake til Oslo. "
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": false
+  },
+  {
+    "id": "0c97139a-efbe-41b2-b7ab-db5497d9f692",
+    "ciceroId": "NO-2031100",
+    "city": "Oslo",
+    "email": "boler@deichman.no",
+    "extendedOpeningHours": true,
+    "facebook": "https://www.facebook.com/deichman.boler",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/bfZj6GvgL772",
+    "image": [
+      {
+        "url": "/tjenestekatalog/155439673202946758557fd28e28214.jpg",
+        "altName": "To unge jenter som ser på bøker.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1554396655050642529c6af43cd3cf8.jpg",
+        "altName": "Liten jente som velger ut en bok.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1554396693284905795945a953d9e03.jpg",
+        "altName": "To gutter som spiller spill på PC.",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "https://instagram.com/deichmanboler",
+    "kohaId": "fbol",
+    "name": "Bøler",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/1636457320592548930b5a4552c6d4b.jpeg",
+      "altName": "Utenfor Deichman Bøler.",
+      "credits": "Foto: Mari Gudim Torp"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Bøler",
+    "streetAddress": "Bølerlia 3C",
+    "zip": "0691",
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Vi er stedet for gode opplevelser og formidling for små og store. Bygningen, som er tegnet av Sverre Fehn og ble oppført i 1972, er en attraksjon for både turister og arkitektstudenter."
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true
+  },
+  {
+    "id": "23b2b12f-7eff-4bd2-a3ea-c91730717d23",
+    "ciceroId": "DEICH-006",
+    "city": "",
+    "email": "",
+    "extendedOpeningHours": false,
+    "facebook": "",
+    "floors": [],
+    "geoLocation": "",
+    "image": [],
+    "instagram": "",
+    "kohaId": "popup",
+    "name": "Camp Deichman",
+    "phoneNumber": "",
+    "profileImage": {
+      "url": "",
+      "altName": "",
+      "credits": ""
+    },
+    "showOnWeb": false,
+    "signature": "",
+    "streetAddress": "",
+    "zip": "",
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": ""
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": true,
+    "isPickupBranch": false
+  },
+  {
+    "id": "4af89422-8b86-470f-a4d8-23d30ae54277",
+    "ciceroId": "NO-2030462",
+    "city": "Oslo",
+    "email": "st.hanshaugen@deichman.no",
+    "extendedOpeningHours": false,
+    "facebook": "",
+    "geoLocation": "https://goo.gl/maps/d4fAUqAXuxLd7mjW6?coh=178572&entry=tt",
+    "image": [
+      {
+        "url": "/tjenestekatalog/17466951036684448248a0096d46560.jpeg",
+        "altName": "",
+        "credits": "Sitronsaft"
+      },
+      {
+        "url": "/tjenestekatalog/17466970123087725416057b72a1efa.png",
+        "credits": "Sitronsaft",
+        "altName": null
+      }
+    ],
+    "instagram": "",
+    "kohaId": "fsan",
+    "name": "Demo St.Hanshaugen",
+    "phoneNumber": "23432900",
+    "profileImage": {
+      "url": "/tjenestekatalog/1716298433686207444db8b0c9fa3f0.jpeg",
+      "altName": "Sommerbiblioteket på St. Hanshaugen",
+      "credits": "Antonella Durante",
+      "focalPoint": {
+        "x": 170,
+        "y": 125,
+        "relX": 66,
+        "relY": 64
+      }
+    },
+    "showOnWeb": true,
+    "signature": "St.Hanshaugen sommerbibliotek",
+    "streetAddress": "Knud Knudsen plass",
+    "zip": "0173",
+    "floors": [],
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Fra 24. mai til 20. september fyller vi Knud Knudsens plass med bøker og aktiviteter for alle aldergrupper. \n\nHer kan du benytte deg av vårt brede spekter av tjenester og aktiviteter, blant annet \"Barnas lørdag\" og \"Forfatterne på haugen\". \n\nSett deg ned med en god bok eller tegneserie, les tidsskrifter og dagens aviser, delta på en rekke spennende arrangementer og nyt sommeren med oss på St. Hanshaugen!"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": true,
+    "isPickupBranch": false
+  },
+  {
+    "id": "ed0bb07e",
+    "city": "",
+    "email": "",
+    "extendedOpeningHours": false,
+    "facebook": "",
+    "floors": [],
+    "geoLocation": "",
+    "image": [],
+    "name": "Ekstern lokasjon",
+    "phoneNumber": "",
+    "profileImage": {
+      "url": "",
+      "altName": "",
+      "credits": ""
+    },
+    "showOnWeb": false,
+    "signature": "Ekstern lokasjon",
+    "streetAddress": "",
+    "zip": "",
+    "hideHoldings": true,
+    "isPickupBranch": true
+  },
+  {
+    "id": "49a270aa-f47c-436c-8093-d02c1271d28e",
+    "ciceroId": "NO-2031600",
+    "city": "Oslo",
+    "email": "fubiak@deichman.no",
+    "extendedOpeningHours": true,
+    "facebook": "",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/eZ4QhtzEET42",
+    "image": [
+      {
+        "url": "/tjenestekatalog/1610988657215716126291b1be4a261.png",
+        "altName": "",
+        "credits": "Foto: Ellen Jarli"
+      },
+      {
+        "url": "/tjenestekatalog/161098895135913333233b69ae82a0e.png",
+        "altName": "",
+        "credits": "Foto: Ellen Jarli"
+      },
+      {
+        "url": "/tjenestekatalog/1610988962316240364a0ba1acdd14d.png",
+        "altName": "",
+        "credits": "Foto: Ellen Jarli"
+      }
+    ],
+    "instagram": "https://www.instagram.com/fubiak",
+    "kohaId": "ffur",
+    "name": "Furuset",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/1605015386240854742f8d8c637ca03.jpg",
+      "altName": "Fra trappa på Furuset bibliotek og aktivitetshus.",
+      "credits": "Foto: Julia Forsberg"
+    },
+    "showOnWeb": true,
+    "signature": "Furuset bibliotek og aktivitetshus",
+    "streetAddress": "Trygve Lies plass 5",
+    "zip": "1051",
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket",
+          "language": null
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Deichman Furuset, frivilligsentral og fritidstilbud for barn og unge er samlet under ett tak i Furuset bibliotek og aktivitetshus. Velkommen!"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true,
+    "snapchat": null
+  },
+  {
+    "id": "c7423473-2496-4d56-b0d7-0161f1fd2e6a",
+    "ciceroId": "NO-2030500",
+    "city": "Oslo",
+    "email": "grynerlokka@deichman.no",
+    "extendedOpeningHours": true,
+    "facebook": "http://www.facebook.com/deichman.grynerlokka",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/E8tA8nWvxM22",
+    "image": [
+      {
+        "url": "/tjenestekatalog/1554629058463993347f1f0b94bd98d.jpg",
+        "altName": "En ung gutt sitter og jobber på Mac'en sin.",
+        "credits": "Foto: Marco Heyda"
+      },
+      {
+        "url": "/tjenestekatalog/1554976947732822303254fcb534944.jpg",
+        "altName": "En mann som sitter og jobber på laptopen sin i 1. etasje.",
+        "credits": "Foto: Marco Heyda"
+      },
+      {
+        "url": "/tjenestekatalog/1554628907631771321f577bdf60114.jpg",
+        "altName": "Serieteket og alle tegneseriene er nå flyttet til 1. etasje.",
+        "credits": "Foto: Marco Heyda"
+      },
+      {
+        "url": "/tjenestekatalog/1554628531204219932b9ada7e7cf94.jpg",
+        "altName": "Fra den nye barne- og ungdomsavdelingen i 2. etasje.",
+        "credits": "Foto: Marco Heyda"
+      },
+      {
+        "url": "/tjenestekatalog/15549769776951518252a84878aa4e5.jpg",
+        "altName": "Velkommen til et nyoppusset bibliotek!",
+        "credits": "Foto: Marco Heyda"
+      }
+    ],
+    "instagram": "",
+    "kohaId": "fgry",
+    "name": "Grünerløkka",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/15543995390178919411b4cb5cce72f.jpg",
+      "altName": "Deichman Grünerløkka - eksteriør.",
+      "credits": "Foto: Deichman"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Grünerløkka",
+    "streetAddress": "Schous plass 10",
+    "zip": "0552",
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket",
+          "language": {
+            "id": "no"
+          }
+        },
+        "blocks": [
+          {
+            "blockType": "markDown",
+            "data": {
+              "text": "[**Se vårprogrammet på Deichman Grünerløkka her**.](https://deichman.no/aktuelt/Forfatterne%2C%20Leserne%2C%20Litter%C3%A6r%20beredskap%20og%20Tidsskriftbonanza_mxjYH7LdG7)\n\nDeichman Grünerløkka er sentralt plassert på Schous plass. Biblioteket er Norges eldste biblioteksbygg. I 1. et. finner du voksenavdelingen med arbeidsplasser og gode stoler, og [**Serieteket**](https://deichman.no/vi-tilbyr/serieteket_7098b21f-f9a2-4d1c-98e1-17bd91325004) i første etasje er hele Oslos møteplass for tegneserier. Her arrangeres også den årlig tegneseriefestivalen **Oslo Comics Expo**. I 2. et. finner du barne- og ungdomsavdelingen, Loftet, og et verksted som bl.a. tilbyr matverksted for barn og unge. \n\nI tillegg til bøker, tegneserier, filmer, aviser og tidsskrifter har vi også utlån av verktøy og frø. \nVelkommen til oss!"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "snapchat": null,
+    "hideHoldings": false,
+    "isPickupBranch": true
+  },
+  {
+    "id": "c754fd37-0efa-4751-9b27-550bc7dfd63d",
+    "ciceroId": "NO-2030900",
+    "city": "Oslo",
+    "email": "holmlia@deichman.no",
+    "extendedOpeningHours": true,
+    "facebook": "https://www.facebook.com/deichman.holmlia",
+    "floors": [],
+    "geoLocation": "",
+    "image": [
+      {
+        "url": "/tjenestekatalog/1719302741288859111fa8505ccc764.jpeg",
+        "altName": "Vinterhagen på Deichman Holmlia",
+        "credits": "Foto: Eivind Volder Rutle / Brillefilm"
+      },
+      {
+        "url": "/tjenestekatalog/1719303110048342307f1663b9c8897.jpeg",
+        "altName": "Barneavdelingen på Deichman Holmlia",
+        "credits": "Foto: Eivind Volder Rutle / Brillefilm"
+      },
+      {
+        "url": "/tjenestekatalog/1719303142930651851e54782b4190e.jpeg",
+        "altName": "Agora på Deichman Holmlia",
+        "credits": "Foto: Eivind Volder Rutle / Brillefilm"
+      },
+      {
+        "url": "/tjenestekatalog/1719303198382537371f949c099be0b.jpeg",
+        "altName": "Ansatte ved infopunkt på Deichman Holmlia",
+        "credits": "Foto: Eivind Volder Rutle / Brillefilm"
+      },
+      {
+        "url": "/tjenestekatalog/1719303224893550498a8f1275426f1.jpeg",
+        "credits": "Foto: Eivind Volder Rutle / Brillefilm",
+        "altName": "Lesesalen på Deichman Holmlia"
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichman.holmlia/",
+    "kohaId": "fhol",
+    "name": "Holmlia",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/171930260775153293728b30021e312.jpeg",
+      "altName": "Inngangspartiet på Deichman Holmlia",
+      "credits": "Foto:  Eivind Volder Rutle / Brillefilm"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Holmlia",
+    "streetAddress": "Holmlia senter vei 16",
+    "zip": "1255",
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket",
+          "language": null
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Nye Deichman Holmlia er nå åpent. Velkommen til oss!"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true,
+    "snapchat": null
+  },
+  {
+    "id": "c12f4437-1184-4f2a-b08f-133148743336",
+    "ciceroId": "NO-2031000",
+    "city": "Oslo",
+    "email": "lambertseter@deichman.no",
+    "extendedOpeningHours": true,
+    "facebook": "https://www.facebook.com/deichman.lambertseter",
+    "floors": [
+      {
+        "id": "618c24e6-746f-4f7d-8f80-cc277034b979",
+        "name": "Underetasje",
+        "level": 0,
+        "rooms": [
+          {
+            "id": "023d16d8-b44c-43f2-a817-24aed604295b",
+            "displayName": "Amfitrappa"
+          },
+          {
+            "id": "63f5d51e-bcef-481b-be1f-aef178ac0bd8",
+            "displayName": "Lille Amfi"
+          },
+          {
+            "id": "5dea6f66-ac82-4e56-9d05-fd77753eebf2",
+            "displayName": "Skogen"
+          },
+          {
+            "id": "c2c9bdda-66a8-4538-9103-a07884b8a0cc",
+            "displayName": "Verkstedet"
+          }
+        ]
+      },
+      {
+        "id": "",
+        "name": "1. etasje",
+        "level": 1,
+        "rooms": [
+          {
+            "id": "3a618463-6d3b-4f04-a36b-37dcb6a41db9",
+            "displayName": "Scenen"
+          },
+          {
+            "id": "3b69df26-686c-48e8-bb37-6b4cc5308bb7",
+            "displayName": "Sletten"
+          },
+          {
+            "id": "ffa60a92",
+            "displayName": "Fjorden"
+          }
+        ]
+      }
+    ],
+    "geoLocation": "https://goo.gl/maps/hpUmbcimhi72",
+    "image": [
+      {
+        "url": "/tjenestekatalog/1598963274907823747f5830778e2e2.jpeg",
+        "altName": "Verksted for barn.",
+        "credits": "Foto: Niklas Hart"
+      },
+      {
+        "url": "/tjenestekatalog/1599039727968561884570f30567024.jpeg",
+        "altName": "To unge gutter i TV-spill kroken.",
+        "credits": "Foto: Niklas Hart"
+      },
+      {
+        "url": "/tjenestekatalog/159903974744921995436e52d82d3ee.jpeg",
+        "altName": "Babysang.",
+        "credits": "Foto: Niklas Hart"
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichmanlambertseter/",
+    "kohaId": "flam",
+    "name": "Lambertseter",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/15990396807936960216dc8f246e1b6.jpeg",
+      "altName": "Fra Deichman Lambertseter.",
+      "credits": "Foto: Niklas Hart"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Lambertseter",
+    "streetAddress": "Langbølgen 1",
+    "zip": "1150",
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket",
+          "language": {
+            "id": "no"
+          }
+        },
+        "blocks": [
+          {
+            "blockType": "markDown",
+            "data": {
+              "text": "Deichman Lambertseter holder til i Nordstrand bydelshus. Hos oss får du tilgang til bl.a. utlån av bøker, filmer, lydbøker, magasiner og gratis wifi. \n\nI første etasje finner du skjønn- og faglitteratur for voksne. Her er det mange plasser for å studere, jobbe og lese. Vi har en stor og innbydende barneavdeling i underetasjen, med mange fine lesekroker. Her finner du også [verkstedet](https://deichman.no/aktuelt/Verkstedet_dOQzatVZsR) vårt. Besøk med barnehage eller skoleklasser må avtales på forhånd. Velkommen!"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true,
+    "snapchat": null
+  },
+  {
+    "id": "5fc31734-a601-425e-9fcb-f393349e9829",
+    "ciceroId": "NO-2030901",
+    "city": "Oslo",
+    "email": "demolinderud@deichman.no",
+    "extendedOpeningHours": false,
+    "facebook": "https://facebook.com/demolinderud",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/Fv8ezbNZWBjubrKJ9",
+    "image": [
+      {
+        "url": "/tjenestekatalog/1620717203241094693c565b4bb3ce9.jpg",
+        "altName": "",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/16207172181983552799afcc6b83bf4.jpg",
+        "altName": "",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1620717236998942591417720bab616.jpg",
+        "altName": "",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "https://www.instagram.com/demolinderud",
+    "kohaId": "flin",
+    "name": "Linderud",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/1620717023866601709dcbec1024168.jpg",
+      "altName": "",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": true,
+    "signature": "Demo Linderud",
+    "streetAddress": "Erich Mogensøns vei 38",
+    "zip": "0594",
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket",
+          "language": null
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Demo Linderud stenger 15. november \n\nEtter fire år er Deichmans Demo-prosjekt på Linderud over. Bøkene og de ansatte flytter over til Deichman Bjerke for å styrke tilbudet på det som nå blir bydelens eneste bibliotek. \n\nDet er med vemod at vi nå stenger Demo Linderud. Stedet har siden 2021 blitt en svært viktig møteplass for lokalbefolkningen. Samtidig er menneskene på Linderud blitt svært viktige for oss som har jobbet på Demo. Nå håper vi å se så mange som mulig av dere på Deichman Bjerke. \n\nBydel Bjerke har også vært til stede i lokalet med Linderud frivillighetssentral og jobber nå for å overta det når Deichman flytter ut.  \n\nHvorfor stenger Demo Linderud? \n\nDemo Linderud stenger fordi Deichman ikke har mulighet til å videreføre prosjektet innenfor de budsjettrammene vi har i dag. Politikerne har heller ikke vedtatt at det skal ligge to bibliotek i Bydel Bjerke. \n\nFormålet med Demo Linderud-prosjektet var å teste ut nye måter å drive bibliotek på. Etter fire år har vi lært mye verdifullt."
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": true,
+    "isPickupBranch": false,
+    "snapchat": null
+  },
+  {
+    "id": "6c868e5f-4f90-4006-b3a1-a14ad620e43a",
+    "ciceroId": "NO-2030300",
+    "city": "Oslo",
+    "email": "majorstuen@deichman.no ",
+    "extendedOpeningHours": true,
+    "facebook": "https://www.facebook.com/Deichman.Majorstuen/",
+    "geoLocation": "https://goo.gl/maps/ijXna9NP42S2",
+    "image": [
+      {
+        "url": "/tjenestekatalog/165712200505880534387c43756841c.jpeg",
+        "altName": "Veksthuset på Deichman Majorstuen",
+        "credits": "Foto: Andrea Søgnen Tveit"
+      },
+      {
+        "url": "/tjenestekatalog/16571220957644521199a16ec648b2b.jpeg",
+        "altName": "Lesesirkel med Jan Lasse",
+        "credits": "Foto: Andrea Søgnen Tveit"
+      },
+      {
+        "url": "/tjenestekatalog/16697349451857204999df7cd7b57f0.jpeg",
+        "altName": "Baby på bib",
+        "credits": "Foto: Sigrid Skarseth"
+      },
+      {
+        "url": "/tjenestekatalog/16697350318943692888ba4c98155b3.jpeg",
+        "altName": "Velkommen til barneavdelingen",
+        "credits": ""
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichman.majorstuen/",
+    "kohaId": "fmaj",
+    "name": "Majorstuen",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/1657116675115526589fe57028a74fb.jpeg",
+      "altName": "Bilde tatt i Frognerparken",
+      "credits": "Foto: Andrea Søgnen Tveit"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Majorstuen",
+    "streetAddress": "Harald Hårfagres gt. 2",
+    "zip": "0363",
+    "floors": [],
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket",
+          "language": null
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Hos oss kan du låne bøker, filmer, lydbøker, verktøy og symaskin. Vi har gratis internett, dagens aviser, frøbibliotek og et hyggelig veksthus.\n\n"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "snapchat": null,
+    "hideHoldings": false,
+    "isPickupBranch": true
+  },
+  {
+    "id": "9e2e2753-8ce1-4236-a4bd-578c3b3cda09",
+    "ciceroId": "NO-2031503",
+    "city": "Oslo",
+    "email": "mortensrud@deichman.no",
+    "extendedOpeningHours": false,
+    "facebook": "https://www.facebook.com/deichman.mortensrud",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/2CDmn6DnUUynzSAU9",
+    "image": [
+      {
+        "url": "/tjenestekatalog/17241474821457975347a488fdeba58.jpeg",
+        "altName": "Spesialbibliotekar Pål Schönhold i samtale med låner på Deichman Mortensrud",
+        "credits": "Erik Thallaug/ Fotofolk"
+      },
+      {
+        "url": "/tjenestekatalog/1724147645468655547c650f6a1b25e.jpeg",
+        "altName": "En kvinne leser bok om verdensrommet sammen med et barn.",
+        "credits": "Erik Thallaug/ Fotofolk"
+      },
+      {
+        "url": "/tjenestekatalog/1724147659716916863e30fe1fe6139.jpeg",
+        "credits": "Erik Thallaug/ Fotofolk",
+        "altName": "Låner i samtale med bibliotekvert Najma Zakariya Mahammad på Deichman Mortensrud."
+      },
+      {
+        "url": "/tjenestekatalog/17241477964622937712486dde2e3d7.jpeg",
+        "credits": "Erik Thallaug/ Fotofolk",
+        "altName": "Lånere slapper av på Deichman Mortensrud."
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichmanmortensrud/",
+    "kohaId": "fmor",
+    "name": "Mortensrud",
+    "phoneNumber": "23432900",
+    "profileImage": {
+      "url": "/tjenestekatalog/1724147414046174309a60d64a51989.jpeg",
+      "altName": "Deichman Mortensrud. Interiør",
+      "credits": "Erik Thallaug/ Fotofolk"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Mortensrud",
+    "streetAddress": "Senter Syd Mortensrud, Lofsrudveien 6",
+    "zip": "1281",
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Deichman Mortensrud er et nytt og litt annerledes bibliotek på Senter Syd, plan 3. \n\nDu er velkommen hos oss enten du trenger en pust i bakken, en skjerpet bevissthet, eller en pirret nysgjerrighet. \n\nVi ønsker at Deichman skal være et fristed for deg, uansett hvem du er. Her kan du lese, jobbe, slappe av, møte venner, eller bare være alene. \n\nBiblioteket er selvbetjent på fredager og lørdager mellom kl. 16 og 19."
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "snapchat": null,
+    "hideHoldings": false,
+    "isPickupBranch": true
+  },
+  {
+    "id": "9860c0f0-273e-4912-9675-1b2193cd774e",
+    "ciceroId": "NO-2031900",
+    "city": "Oslo",
+    "email": "nordtvet@deichman.no",
+    "extendedOpeningHours": true,
+    "facebook": "https://www.facebook.com/deichman.nordtvet",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/wVEFuWXQXZ32",
+    "image": [
+      {
+        "url": "/tjenestekatalog/15547314045390814533512c19230a1.jpg",
+        "altName": "Mann som leser avisa.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/15547312693610226396e71a4cd11b8.jpg",
+        "altName": "En gutt som som er innom biblioteket etter skoletid.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1554731322164521404d4e22d70d333.jpg",
+        "altName": "To jenter som gjør lekser sammen på biblioteket.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/155473136808183102449b358126cef.jpg",
+        "altName": "Unger som spiller ludo på biblioteket.",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichman.nordtvet/",
+    "kohaId": "fnor",
+    "name": "Nordtvet",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/1554731188395190950543e27b6e9e7.jpg",
+      "altName": "Dame som leser avisa i biblioteket.",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Nordtvet",
+    "streetAddress": "Nordtvetveien 28",
+    "zip": "0952",
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Du finner Deichman Nordtvet ved Grorud Samfunnshus. Vi er et av byens eldste lokalbibliotek, og hos oss kan du delta på arrangementer, kurs, bruke pcer, skrive ut og kopiere, lese avisen, møte venner eller bare slappe av med en god bok og en kaffekopp.\n\n\n\n\n\n\n\n\n\nDeichman Nortvet er Regnbuefyrtårn, et kvalitetsmerke vi har fått fordi vi jobber for å gjøre biblioteket til en mangfoldig og inkluderende møteplass.\n\n\n\n\n\n\n\n\n"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true
+  },
+  {
+    "id": "9a11711d-e6ea-422c-a669-209cb9144c1d",
+    "ciceroId": "NO-3030401",
+    "city": "Oslo",
+    "email": "nydalen@deichman.no",
+    "extendedOpeningHours": true,
+    "facebook": "https://www.facebook.com/deichman.nydalen",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/KxcAs32YrPm",
+    "image": [
+      {
+        "url": "/tjenestekatalog/15547333213357903593f391c21b8ea.jpg",
+        "altName": "To elever som gjør lekser sammen.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1554733357861202368de78d554d5eb.jpg",
+        "altName": "To elever som spiller sjakk sammen.",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichman.nydalen/",
+    "kohaId": "fnyd",
+    "name": "Nydalen",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/1768994006467973881a9a2d5364c6e.jpeg",
+      "altName": "Utenfor Deichman Nydalen.",
+      "credits": "Foto: Lars Junge"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Nydalen",
+    "streetAddress": "Nydalsveien 30 C",
+    "zip": "0484",
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket",
+          "language": {
+            "id": "no"
+          }
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "TIL ORIENTERING: Deichman Nydalen er stengt fra 11. - 24. februar på grunn av vedlikehold av gulvene. Meråpent er heller ikke tilgjengelig i denne perioden. Besøk gjerne et av de andre bibliotekene våre. Takk for tålmodigheten – vi gleder oss til å ønske deg velkommen tilbake!\n\nVi holder til i sørenden av Nydalen videregående skole, med inngang på siden av bygget. Hos oss får du blant annet tilgang til gratis wifi, utlån av bøker, film, lydbøker og magasiner. Vi har arrangementer og aktiviteter for store og små. Du finner også et stillerom hos oss dersom du trenger ro og fred en liten stund.\n\nVelkommen!"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true,
+    "snapchat": null
+  },
+  {
+    "id": "27ec5302-c43f-4559-9f56-638725f5753b",
+    "ciceroId": "NO-2031300",
+    "city": "Oslo",
+    "email": "oppsal@deichman.no",
+    "extendedOpeningHours": true,
+    "facebook": "https://www.facebook.com/deichman.oppsal",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/z69tRctiQPN2",
+    "image": [
+      {
+        "url": "/tjenestekatalog/1558609043107508640f9a16cc5a8f4.jpg",
+        "altName": "Én av de ansatte hjelper en låner med å finne fram bøker.",
+        "credits": "Foto: Deichman bibliotek"
+      },
+      {
+        "url": "/tjenestekatalog/1554825994996263519b0069f2967ed.jpg",
+        "altName": "Eldre dame som leser et tidsskrift.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/15548260473081928392c4dc1d01482.jpg",
+        "altName": "En ung mann som sitter ved et bord og leser en bok.",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichmanoppsal/",
+    "kohaId": "fopp",
+    "name": "Oppsal",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/15586090073666501551563776ab840.jpg",
+      "altName": "Utenfor Deichman Oppsal",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Oppsal",
+    "streetAddress": "Vetlandsveien 99-101",
+    "zip": "0685",
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Vi har hjerte for familier og opplevelser, og er landets første alders- og demensvennlige bibliotek. Hos oss skal alle føle seg inkludert, og vi kan hjelpe deg med det meste. Vi holder til i Østensjø bydel, i Oppsal samfunnshus, rett bak Oppsal senter."
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true
+  },
+  {
+    "id": "a7ea731b-5e4b-4bbc-bc24-6c4289a85223",
+    "ciceroId": "",
+    "city": "Oslo",
+    "email": "hilde.haugane@deichman.no",
+    "extendedOpeningHours": false,
+    "facebook": "",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/vSXjToCkQ4x",
+    "image": [
+      {
+        "url": "/tjenestekatalog/1554827694588952191120921fe7c06.jpg",
+        "altName": "Bibliotekar Hilde ved lydbokhylla.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1554827529061701423fd5d12a2126a.jpg",
+        "altName": "Biblioteket har både bøker, fussballspill og sjakkbord for de innsatte og ansatte i Oslo fengsel..",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1554827616602776575240f2e403084.jpg",
+        "altName": "Bibliotekarene Hilde Einan og Hilde Koldre blant bokhyllene i fengselsbiblioteket. ",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "",
+    "kohaId": "",
+    "name": "Oslo fengsel",
+    "phoneNumber": "23 30 18 38",
+    "profileImage": {
+      "url": "/tjenestekatalog/1554827431849393969287aac2dbe3c.jpg",
+      "altName": "Fra biblioteket i Deichman Oslo fengsel.",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Oslo fengsel",
+    "streetAddress": "Åkebergveien 11",
+    "zip": "0650 ",
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Deichman Oslo Fengsel er et fengselsbibliotek og kan kun benyttes av innsatte eller ansatte ved Oslo fengsel. Biblioteket har en stor samling med over 17 000 medier, og har stort fokus på en variert og fristende flerspråklig samling. Deichman Oslo Fengsel er et populært samlingssted i fengselet, og besøkes av veldig mange innsatte hver eneste dag.\n"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": false
+  },
+  {
+    "id": "adb4de24-6c7d-450e-a96d-7869a85b05d4",
+    "ciceroId": "NO-2032361",
+    "city": "Oslo",
+    "email": "rikshospitalet@deichman.no",
+    "extendedOpeningHours": false,
+    "facebook": "https://www.facebook.com/ousrikshospitalet/",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/E614Pub86dn",
+    "image": [
+      {
+        "url": "/tjenestekatalog/155482881449562056561a9edc8b00d.jpg",
+        "altName": "En mor leser for sønnen sin.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/15548289553992325759ff9dcea7f0d.jpg",
+        "altName": "To kvinner som leser bøker og prater sammen på en benk utenfor biblioteket.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1554829035360007108b85264e25772.jpg",
+        "altName": "En sykepleier og en ung pasient er på besøk på pasientbiblioteket.",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "",
+    "kohaId": "frik",
+    "name": "Rikshospitalet",
+    "phoneNumber": "23 07 46 40",
+    "profileImage": {
+      "url": "/tjenestekatalog/155482868134108986681bec7234458.jpg",
+      "altName": "Bilde tatt utenfor biblioteket i Rikshospitalets første etasje.",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": false,
+    "signature": "Deichman OUS Rikshospitalet",
+    "streetAddress": "Sognsvannsveien 20",
+    "zip": "0372",
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket",
+          "language": null
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Biblioteket på Rikshospitalet er ikke lenger et Deichman-bibliotek. Klikk på lenken under for å gå til den nye nettsiden til pasientbiblioteket."
+            },
+            "order": 0
+          },
+          {
+            "blockType": "link",
+            "data": {
+              "linkType": "internal",
+              "text": "Oslo Universitetssykehus - Pasientbiblioteket",
+              "url": "https://pasientbibliotekeneous.welib.no"
+            },
+            "order": 1
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": true,
+    "isPickupBranch": false,
+    "snapchat": null
+  },
+  {
+    "id": "d5b9f68d-fc46-4267-95fd-12b15bd8c61d",
+    "ciceroId": "NO-2031701",
+    "city": "",
+    "email": "",
+    "extendedOpeningHours": false,
+    "facebook": "",
+    "floors": [],
+    "geoLocation": "",
+    "image": [],
+    "instagram": "",
+    "kohaId": "frmm",
+    "name": "Rommen",
+    "phoneNumber": "",
+    "profileImage": {
+      "url": "",
+      "altName": "",
+      "credits": ""
+    },
+    "showOnWeb": false,
+    "signature": "",
+    "streetAddress": "",
+    "zip": "",
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": ""
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": true,
+    "isPickupBranch": false
+  },
+  {
+    "id": "4ca59ce3-3baf-4f61-b6f3-656ed90bdbf3",
+    "ciceroId": "NO-2031800",
+    "city": "Oslo",
+    "email": "romsas@deichman.no",
+    "extendedOpeningHours": false,
+    "facebook": "https://www.facebook.com/deichman.romsas",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/UF2o34TLfXP2",
+    "image": [
+      {
+        "url": "/tjenestekatalog/16436365563917517740ba39b028bfc.jpg",
+        "altName": "Tre tenåringsjenter utenfor Deichman Romsås",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/16436365339683003571b8b06df3891.jpg",
+        "altName": "Barneverksted på Deichman Romsås",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1643636803893856679850769b044f1.jpg",
+        "altName": "Deichman-ansatt Shelli holder verksted for barn på Deichman Romsås.",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichman.romsaas/",
+    "kohaId": "from",
+    "name": "Romsås",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/16436369106613068233819665b6401.jpg",
+      "altName": "Tre tenåringsjenter utenfor Deichman Romsås",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Romsås",
+    "streetAddress": "Romsås senter 1",
+    "zip": "0970",
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Vi er en sosial og hyggelig møteplass for alle aldersgrupper på Romsås. Her kan du lese aviser, låne bøker, få litteraturveiledning eller bare møte venner over en kaffe.\n\nDeichman Romsås er Regnbuefyrtårn, et kvalitetsmerke vi har fått fordi vi jobber for å gjøre biblioteket til en mangfoldig og inkluderende møteplass."
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "snapchat": null,
+    "hideHoldings": false,
+    "isPickupBranch": true
+  },
+  {
+    "id": "40a028a5-7a96-4c2f-9aed-c3fad71885f5",
+    "ciceroId": "NO-2032400",
+    "city": "Oslo",
+    "email": "roa@deichman.no",
+    "extendedOpeningHours": true,
+    "facebook": "https://www.facebook.com/deichman.roa",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/KtMrTjuyHEU2",
+    "image": [
+      {
+        "url": "/tjenestekatalog/17685827742147750090a0ec74eaaec.jpeg",
+        "altName": "Lokale helter: Vetle Lid Larssen i samtale med Karoline Gregersen Herlofsen",
+        "credits": "Foto: Kristian Ulyses Andaur"
+      },
+      {
+        "url": "/tjenestekatalog/176849612797172567001ae9e490917.jpeg",
+        "altName": "Utlån av bøker",
+        "credits": "Foto: Kristian Ulyses Andaur"
+      },
+      {
+        "url": "/tjenestekatalog/1768582817990110330ce82e83a8ef0.jpeg",
+        "altName": "Språkkafé på Deichman Røa",
+        "credits": "Foto: Erik Thallaug / Fotofolk"
+      },
+      {
+        "url": "/tjenestekatalog/17684963781435332644584d355988a.jpeg",
+        "altName": "Deichman Røa: Datamaskiner og bokhyller",
+        "credits": "Foto: Kristian Ulyses Andaur"
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichmanroa",
+    "kohaId": "froa",
+    "name": "Røa",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/176849633018359339055051916c4c1.jpeg",
+      "altName": "Fra Deichman Røa.",
+      "credits": "Foto: Kristian Ulyses Andaur"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Røa",
+    "streetAddress": "Tore Hals Mejdells vei 8",
+    "zip": "0751",
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket",
+          "language": null
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Velkommen til Deichman Røa! Hos oss får du tilgang til bl.a. utlån av bøker, filmer, lydbøker, Playstation 5, et kinotek. dagens aviser og gratis wifi. Ta kontakt med oss på mail om du lurer på noe!"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true,
+    "snapchat": null
+  },
+  {
+    "id": "acef4c8e-34ce-4579-8cb1-1c7a4926ccef",
+    "ciceroId": "NO-2030003",
+    "city": "",
+    "email": "",
+    "extendedOpeningHours": false,
+    "facebook": "",
+    "floors": [],
+    "geoLocation": "",
+    "image": [],
+    "instagram": "",
+    "kohaId": "hsko",
+    "name": "Skoleavdelingen",
+    "phoneNumber": "",
+    "profileImage": {
+      "url": "",
+      "altName": "",
+      "credits": ""
+    },
+    "showOnWeb": false,
+    "signature": "",
+    "streetAddress": "",
+    "zip": "",
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": ""
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": false
+  },
+  {
+    "id": "380ccc9b-8df7-4218-b12e-dc1f90ee7031",
+    "ciceroId": "NO-2032500",
+    "city": "Oslo",
+    "email": "smestad@deichman.no",
+    "extendedOpeningHours": false,
+    "facebook": "",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/ehqABoQ5YCJ2",
+    "image": [
+      {
+        "url": "/tjenestekatalog/15548326532881551034c341944fec7.jpg",
+        "altName": "En ung jente får hjelp til å låne ut bøker.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/15548325849483419904e215ceea989.jpg",
+        "altName": "Fire gutter leser en bok sammen i en sofa.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/15548326222943117898e1cedf8e9a8.jpg",
+        "altName": "To elever gjør lekser sammen på biblioteket.",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "",
+    "kohaId": "fsme",
+    "name": "Smestad",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/15548324649575462725ebcbf76ebea.jpg",
+      "altName": "To gutter søker i bibliotekbasen.",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Smestad",
+    "streetAddress": "Smestad skole, Inngang A, Konventveien 27, inng. fra Priorveien",
+    "zip": "0377",
+    "merapentOnlyWithOslonokkel": false,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Smestad ligger i underetasjen på Smestad skole og er et bibliotek med fokus på barn og unge. På Smestad kan du låne, levere og hente bestilt materiale. Kontakt oss på smestad@deichman.no om du lurer på noe. "
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true
+  },
+  {
+    "id": "44100db0-ef52-48a9-a314-30808714d620",
+    "ciceroId": "NO-2031700",
+    "city": "Oslo",
+    "email": "stovner@deichman.no",
+    "extendedOpeningHours": true,
+    "facebook": "https://www.facebook.com/deichman.stovner",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/xmte5xX3HWk",
+    "image": [
+      {
+        "url": "/tjenestekatalog/1554833432055871432cb106738878c.jpg",
+        "altName": "To menn sitter og jobber langs vindusrekka ut mot senteret.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/155483348726045511806e77a21bbbc.jpg",
+        "altName": "En kvinne sitter og studerer i en lenestol.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/15548335245655413728eb1597f769a.jpg",
+        "altName": "To unge jenter gjør lekser sammen.",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichman.stovner/",
+    "kohaId": "fsto",
+    "name": "Stovner",
+    "phoneNumber": "23 43 29 00 (sentralbord)",
+    "profileImage": {
+      "url": "/tjenestekatalog/1554833045693359947dd314ac51a02.jpg",
+      "altName": "Utenfor biblioteket i Stovner senter, plan 3.",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Stovner",
+    "streetAddress": "Stovner senter 3",
+    "zip": "0985",
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Vi er en sosial og hyggelig møteplass for alle aldersgrupper på Stovner. Her kan du lese aviser, låne bøker, få litteraturveiledning eller bare møte venner over en kaffe.\n\nDeichman Stovner er Regnbuefyrtårn, et kvalitetsmerke vi har fått fordi vi jobber for å gjøre biblioteket til en mangfoldig og inkluderende møteplass.\n\nVi holder til inne på Stovner senter på plan 3. Velkommen!\n"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "snapchat": null,
+    "hideHoldings": false,
+    "isPickupBranch": true
+  },
+  {
+    "id": "3e3b0abe-8580-470a-a170-3a57460e8814",
+    "ciceroId": "NO-2030400",
+    "city": "Oslo",
+    "email": "torshov@deichman.no",
+    "extendedOpeningHours": true,
+    "facebook": "https://www.facebook.com/deichman.torshov",
+    "geoLocation": "https://goo.gl/maps/k2SC515PhaL2",
+    "image": [
+      {
+        "url": "/tjenestekatalog/155483403960479675250217c24fc0e.jpg",
+        "altName": "Bibliotekar Kristine foran tidsskrifthyllene.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1554834201304943492f3fefefef9c6.jpg",
+        "altName": "En mann og en ung kvinne som sitter og jobber ved et arbeidsbord.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/15548343371363544229153d5011044.jpg",
+        "altName": "En ung kvinne som sitter og studerer.",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichmantorshov/",
+    "kohaId": "ftor",
+    "name": "Torshov",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/1554833983911306250511bd6e227ee.jpg",
+      "altName": "Utenfor Deichman Torshov og Sandaker Senter.",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Torshov",
+    "streetAddress": "Sandakerveien 59",
+    "zip": "0477",
+    "floors": [],
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Deichman Torshov er et hyggelig møtested, og en viktig kultur- og informasjonsarena i lokalmiljøet. Vi holder til i enden av Sandakersenteret, med store og luftige lokaler plassert på gateplan.\n\nHos oss kan du låne, levere og hente bøker. Spør oss hvis du ønsker en anbefaling! Vi formidler litteratur til skoleklasser og barnehager, og har arrangementer for voksne og barn. \n\nVi har også et frøbibliotek hvor du kan finne frø til balkongkassen eller vinduskarmen, og vi låner ut verktøy til oppussingen. "
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true
+  },
+  {
+    "id": "20fc0710-70db-4105-826d-229c43ec6dc1",
+    "ciceroId": "NO-2030600",
+    "city": "Oslo",
+    "email": "toyen@deichman.no",
+    "extendedOpeningHours": true,
+    "facebook": "https://www.facebook.com/deichmantoyen",
+    "floors": [],
+    "geoLocation": "https://goo.gl/maps/a9xVukyRg3p",
+    "image": [
+      {
+        "url": "/tjenestekatalog/1554835082062226060d3df68920c85.jpg",
+        "altName": "En baby leker i barneavdelingen sammen med mammaen sin.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/15548349741243402918f97bbfe9c0f.jpg",
+        "altName": "En ung kvinne sitter og leser en roman og drikker te i en sofa.",
+        "credits": "Foto: Erik Thallaug"
+      },
+      {
+        "url": "/tjenestekatalog/1554835016620744004df9ca2523e3f.jpg",
+        "altName": "En ung mann som sitter med en MacBook ved vinduet.",
+        "credits": "Foto: Erik Thallaug"
+      }
+    ],
+    "instagram": "https://www.instagram.com/deichman.toyen/",
+    "kohaId": "fgam",
+    "name": "Tøyen",
+    "phoneNumber": "23 43 29 00",
+    "profileImage": {
+      "url": "/tjenestekatalog/15548349269708962213d30ab200a13.jpg",
+      "altName": "Bilde tatt fra utsiden av Deichman Tøyen.",
+      "credits": "Foto: Erik Thallaug"
+    },
+    "showOnWeb": true,
+    "signature": "Deichman Tøyen",
+    "streetAddress": "Hagegata 28",
+    "zip": "0653",
+    "merapentOnlyWithOslonokkel": true,
+    "sections": [
+      {
+        "sectionType": "generic",
+        "data": {
+          "title": "Om biblioteket"
+        },
+        "blocks": [
+          {
+            "blockType": "text",
+            "data": {
+              "text": "Velkommen til Deichman Tøyen. Vi holder til midt på Tøyen torg. Aktivitetsnivået er høyt; det skjer mye hos oss, men vi er samtidig opptatt av at du skal kunne sitte i ro og fred. Alle skal føle seg velkommen hos oss. Spør oss om du lurer på noe, vi er her for å hjelpe deg!"
+            },
+            "order": 0
+          }
+        ],
+        "order": 0
+      }
+    ],
+    "hideHoldings": false,
+    "isPickupBranch": true
+  }
+]

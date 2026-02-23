@@ -10,6 +10,9 @@ export default function Index() {
     if (item.availableBranches === null) {
       return false;
     }
+    if (!filters[item.mediaType]) {
+      return false;
+    }
     return item.availableBranches.some((branch) => filters[branch] === true);
   });
   return (

@@ -35,22 +35,22 @@ export default function FilterPage() {
         <Text style={styles.legend}>Medium</Text>
         <View style={styles.field}>
           <Checkbox
-            value={!!filters.bok}
-            onValueChange={() => toggleValue("bok")}
+            value={!!filters.Bok}
+            onValueChange={() => toggleValue("Bok")}
           />
           <Text>Bok</Text>
         </View>
         <View style={styles.field}>
           <Checkbox
-            value={!!filters.film}
-            onValueChange={() => toggleValue("film")}
+            value={!!filters.Film}
+            onValueChange={() => toggleValue("Film")}
           />
           <Text>Film</Text>
         </View>
         <View style={styles.field}>
           <Checkbox
-            value={!!filters.noter}
-            onValueChange={() => toggleValue("noter")}
+            value={!!filters.Noter}
+            onValueChange={() => toggleValue("Noter")}
           />
           <Text>Noter</Text>
         </View>

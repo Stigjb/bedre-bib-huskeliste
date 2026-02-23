@@ -6,6 +6,9 @@ export default function FilterProvider({ children }: PropsWithChildren) {
     bjor: true,
     fgry: true,
     fmaj: true,
+    Bok: true,
+    Film: true,
+    Noter: true,
   });
   const toggleValue = (key: string) => {
     if (key in filters) {

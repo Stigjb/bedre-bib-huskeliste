@@ -4,14 +4,9 @@ import { PropsWithChildren, useEffect, useState } from "react";
 export function BranchProvider({ children }: PropsWithChildren) {
   const [branches, setBranches] = useState<Record<string, string> | null>(null);
   useEffect(() => {
-    fetch("https://deichman.no/api/libraries")
+    fetch("/libraries")
       .then((res) => res.json())
-      .then((json) => {
-        console.log({ json });
-        const map: Record<string, string> = {};
-        json.forEach(({ kohaId, name }: any) => (map[kohaId] = name));
-        setBranches(map);
-      });
+      .then((json) => setBranches(json));
   }, []);
   if (branches === null) {
     return null;

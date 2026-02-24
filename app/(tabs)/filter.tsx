@@ -12,7 +12,7 @@ export default function FilterPage() {
       <View style={styles.fieldSet}>
         <Text style={styles.legend}>Filialer</Text>
         {Object.entries(branches).map(([key, val]) => (
-          <View style={styles.field}>
+          <View style={styles.field} key={key}>
             <Checkbox
               value={!!filters[key]}
               onValueChange={() => toggleValue(key)}

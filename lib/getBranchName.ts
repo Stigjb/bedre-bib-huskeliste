@@ -1,4 +1,4 @@
-import libraries from '@/libraries.json';
+import libraries from "@/libraries.json";
 
 export default function getBranchName(kohaId: string): string | null {
   for (const lib of libraries) {

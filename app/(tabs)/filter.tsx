@@ -1,3 +1,4 @@
+import { BranchContext } from "@/lib/branchContext";
 import { FilterContext } from "@/lib/filterContext";
 import { Checkbox } from "expo-checkbox";
 import { useContext } from "react";
@@ -5,31 +6,20 @@ import { ScrollView, StyleSheet, View, Text } from "react-native";
 
 export default function FilterPage() {
   const { filters, toggleValue } = useContext(FilterContext);
+  const { branches } = useContext(BranchContext);
   return (
     <ScrollView>
       <View style={styles.fieldSet}>
         <Text style={styles.legend}>Filialer</Text>
-        <View style={styles.field}>
-          <Checkbox
-            value={!!filters.bjor}
-            onValueChange={() => toggleValue("bjor")}
-          />
-          <Text>Bjørvika</Text>
-        </View>
-        <View style={styles.field}>
-          <Checkbox
-            value={!!filters.fgry}
-            onValueChange={() => toggleValue("fgry")}
-          />
-          <Text>Grünerløkka</Text>
-        </View>
-        <View style={styles.field}>
-          <Checkbox
-            value={!!filters.fmaj}
-            onValueChange={() => toggleValue("fmaj")}
-          />
-          <Text>Majorstua</Text>
-        </View>
+        {Object.entries(branches).map(([key, val]) => (
+          <View style={styles.field}>
+            <Checkbox
+              value={!!filters[key]}
+              onValueChange={() => toggleValue(key)}
+            />
+            <Text>{val}</Text>
+          </View>
+        ))}
       </View>
       <View style={styles.fieldSet}>
         <Text style={styles.legend}>Medium</Text>

@@ -1,11 +1,11 @@
 import { createContext } from "react";
 
-interface ContextType {
+interface FilterContextType {
   filters: Record<string, boolean>;
-  toggleValue: (key: string) => {};
+  toggleValue: (key: string) => void;
 }
 
-export const FilterContext = createContext({
-  filters: {} as Record<string, boolean>,
-  toggleValue: (key: string) => {},
+export const FilterContext = createContext<FilterContextType>({
+  filters: {},
+  toggleValue: () => {},
 });

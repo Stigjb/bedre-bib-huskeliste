@@ -38,7 +38,7 @@ export function BookComponent({
         {emoji}
         {title}
       </Text>
-     {mainEntryName && <Text style={styles.author}>{mainEntryName}</Text>}
+      {mainEntryName && <Text style={styles.author}>{mainEntryName}</Text>}
       <Availability branches={availableBranches} />
     </View>
   );

@@ -1,9 +1,7 @@
-import FilterProvider from "@/components/FilterProvider";
-import { FilterContext } from "@/lib/filterContext";
-import { Tabs } from "expo-router";
-import { useState } from "react";
 import Ionicons from "@expo/vector-icons/Ionicons";
+import { Tabs } from "expo-router";
 import { BranchProvider } from "@/components/BranchProvider";
+import FilterProvider from "@/components/FilterProvider";
 
 export default function TabLayout() {
   return (

@@ -1,15 +1,10 @@
-import getBranchName from "@/lib/getBranchName";
-import { View, Text, StyleSheet } from "react-native";
-
-type Props = {
-  title: string;
-  mainEntryName?: string;
-  mainTitle: string;
-  mediaType: string;
-  availableBranches: string[] | null;
-};
+import { useContext } from "react";
+import { StyleSheet, Text, View } from "react-native";
+import { BranchContext } from "@/lib/branchContext";
+import type { Favourite } from "@/lib/Favourite";
 
 function Availability({ branches }: { branches: string[] | null }) {
+  const { getBranchName } = useContext(BranchContext);
   if (branches === null) {
     return null;
   }
@@ -17,13 +12,12 @@ function Availability({ branches }: { branches: string[] | null }) {
   return <Text>Ledig ved {namedBranches.join(", ")}</Text>;
 }
 
-export function BookComponent({
+export function FavouriteComponent({
   title,
-  mainTitle,
   mainEntryName,
   mediaType,
   availableBranches,
-}: Props) {
+}: Favourite) {
   let emoji = "";
   if (mediaType === "Bok") {
     emoji = "📕 ";

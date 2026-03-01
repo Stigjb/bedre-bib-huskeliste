@@ -1,5 +1,5 @@
-import { FilterContext } from "@/lib/filterContext";
 import { type PropsWithChildren, useState } from "react";
+import { FilterContext } from "@/lib/filterContext";
 
 export default function FilterProvider({ children }: PropsWithChildren) {
   const [filters, setFilters] = useState<Record<string, boolean>>({
@@ -18,8 +18,15 @@ export default function FilterProvider({ children }: PropsWithChildren) {
       setFilters({ ...filters, [key]: true });
     }
   };
+  const setAll = (keys: string[], val: boolean) => {
+    const newFilters = { ...filters };
+    for (const k of keys) {
+      newFilters[k] = val;
+    }
+    setFilters(newFilters);
+  };
   return (
-    <FilterContext.Provider value={{ filters, toggleValue }}>
+    <FilterContext.Provider value={{ filters, setAll, toggleValue }}>
       {children}
     </FilterContext.Provider>
   );

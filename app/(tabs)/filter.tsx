@@ -1,16 +1,31 @@
-import { BranchContext } from "@/lib/branchContext";
-import { FilterContext } from "@/lib/filterContext";
 import { Checkbox } from "expo-checkbox";
 import { useContext } from "react";
-import { ScrollView, StyleSheet, View, Text } from "react-native";
+import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { BranchContext } from "@/lib/branchContext";
+import { FilterContext } from "@/lib/filterContext";
 
 export default function FilterPage() {
-  const { filters, toggleValue } = useContext(FilterContext);
+  const { filters, toggleValue, setAll } = useContext(FilterContext);
   const { branches } = useContext(BranchContext);
+  const allBranches = Object.keys(branches);
   return (
     <ScrollView>
       <View style={styles.fieldSet}>
         <Text style={styles.legend}>Filialer</Text>
+        <View style={styles.buttons}>
+          <Pressable
+            onPress={() => setAll(allBranches, true)}
+            style={styles.button}
+          >
+            <Text>Alle</Text>
+          </Pressable>
+          <Pressable
+            onPress={() => setAll(allBranches, false)}
+            style={styles.button}
+          >
+            <Text>Ingen</Text>
+          </Pressable>
+        </View>
         {Object.entries(branches).map(([key, val]) => (
           <View style={styles.field} key={key}>
             <Checkbox
@@ -63,5 +78,17 @@ const styles = StyleSheet.create({
   field: {
     flexDirection: "row",
     gap: 8,
+  },
+  button: {
+    paddingVertical: 4,
+    paddingHorizontal: 8,
+    borderColor: "#000",
+    borderStyle: "solid",
+    borderWidth: 1,
+    backgroundColor: "#ddd",
+  },
+  buttons: {
+    flexDirection: "row",
+    gap: 4,
   },
 });

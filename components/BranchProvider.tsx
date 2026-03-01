@@ -1,5 +1,5 @@
+import { type PropsWithChildren, useEffect, useState } from "react";
 import { BranchContext } from "@/lib/branchContext";
-import { PropsWithChildren, useEffect, useState } from "react";
 
 export function BranchProvider({ children }: PropsWithChildren) {
   const [branches, setBranches] = useState<Record<string, string> | null>(null);

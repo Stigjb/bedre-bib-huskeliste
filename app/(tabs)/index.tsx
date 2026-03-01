@@ -1,11 +1,12 @@
-import { ActivityIndicator, FlatList, View } from "react-native";
-import { BookComponent } from "@/components/Book";
 import { useContext, useEffect, useState } from "react";
+import { ActivityIndicator, FlatList, View } from "react-native";
+import { FavouriteComponent } from "@/components/Book";
+import type { Favourite } from "@/lib/Favourite";
 import { FilterContext } from "@/lib/filterContext";
 
 export default function Index() {
   const { filters } = useContext(FilterContext);
-  const [favourites, setFavourites] = useState<any[] | null>(null);
+  const [favourites, setFavourites] = useState<Favourite[] | null>(null);
   useEffect(() => {
     fetch("/favourites")
       .then((res) => res.json())
@@ -33,7 +34,7 @@ export default function Index() {
     <View>
       <FlatList
         data={filteredData}
-        renderItem={({ item }) => <BookComponent {...item} />}
+        renderItem={({ item }) => <FavouriteComponent {...item} />}
       />
     </View>
   );

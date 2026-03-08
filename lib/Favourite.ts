@@ -4,5 +4,4 @@ export interface Favourite {
   mainEntryName: string;
   title: string;
   mediaType: string;
-  availableBranches: string[] | null;
 }

@@ -1,7 +1,7 @@
 import { useContext, useState } from "react";
 import { Modal, Pressable, StyleSheet, Text, View } from "react-native";
 import { BranchContext } from "@/lib/branchContext";
-import type { Copy } from "@/lib/Copy";
+import { CopiesContext } from "@/lib/copiesContext";
 import type { Favourite } from "@/lib/Favourite";
 import { Copies } from "./Copies";
 
@@ -19,10 +19,10 @@ export function FavouriteComponent({
   title,
   mainEntryName,
   mediaType,
-  availableBranches,
 }: Favourite) {
   const [modalVisible, setModalVisible] = useState(false);
-  const [copiesInfo, setCopiesInfo] = useState<Copy[] | null>(null);
+  const { copies } = useContext(CopiesContext);
+  const availableBranches = copies[recordId].map((c) => c.branchcode);
   let emoji = "";
   if (mediaType === "Bok") {
     emoji = "📕 ";
@@ -31,12 +31,8 @@ export function FavouriteComponent({
   } else if (mediaType === "Noter") {
     emoji = "🎼 ";
   }
+  const copiesInfo = copies[recordId];
   const checkCopies = async () => {
-    if (copiesInfo === null) {
-      const info = await fetch(`/copies?id=${recordId}`);
-      const data = await info.json();
-      setCopiesInfo(data);
-    }
     setModalVisible(true);
   };
   return (

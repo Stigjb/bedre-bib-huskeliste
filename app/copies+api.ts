@@ -6,6 +6,7 @@ const baseUrl = "https://deichman.no/api/cicero/open/copies";
 type RawCopy = Copy & { status: string };
 
 export async function GET(req: Request) {
+  console.log(req.url);
   const reqUrl = new URL(req.url);
   const ids = reqUrl.searchParams.get("id");
 
@@ -18,12 +19,13 @@ export async function GET(req: Request) {
   const res = await fetch(url);
   const data = await res.json();
   const result: Copy[] = [];
-  for (const copiesItem of Object.values(data)) {
+  for (const [recordId, copiesItem] of Object.entries(data)) {
     for (const item of (copiesItem as { items: RawCopy[] }).items) {
       if (item.status !== "Ledig") {
         continue;
       }
       const resItem = {
+        recordId,
         locLabel: item.locLabel,
         shelfmark: item.shelfmark,
         branchcode: item.branchcode,

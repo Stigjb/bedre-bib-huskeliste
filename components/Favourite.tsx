@@ -48,7 +48,10 @@ export function FavouriteComponent({
         >
           <View style={styles.centeredView}>
             <View style={styles.modalView}>
-              <Copies copies={copiesInfo} />
+              <Copies
+                copies={copiesInfo}
+                close={() => setModalVisible(false)}
+              />
             </View>
           </View>
         </Modal>
@@ -73,7 +76,7 @@ const styles = StyleSheet.create({
   modalView: {
     margin: 20,
     backgroundColor: "white",
-    padding: 35,
+    padding: 25,
     alignItems: "center",
   },
 });

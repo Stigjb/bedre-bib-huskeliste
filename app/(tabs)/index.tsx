@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { FlatList, View } from "react-native";
-import { FavouriteComponent } from "@/components/Book";
+import { FavouriteComponent } from "@/components/Favourite";
 import { CopiesContext } from "@/lib/copiesContext";
 import { FavouritesContext } from "@/lib/favouritesContext";
 import { FilterContext } from "@/lib/filterContext";
